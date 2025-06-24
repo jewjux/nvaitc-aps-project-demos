@@ -1,0 +1,32 @@
+.header {
+  padding: 20px;
+  text-align: left;
+}
+
+.headline {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #f8f8ff;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.sub-section {
+  margin-bottom: 10px;
+  flex: 1;
+}
+
+.sub-headline {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #f6f6f6;
+}
+
+.text {
+  font-size: 1em;
+  color: #e0e0e0;
+}

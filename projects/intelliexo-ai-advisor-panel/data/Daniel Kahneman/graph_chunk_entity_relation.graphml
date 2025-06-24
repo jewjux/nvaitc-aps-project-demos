@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;ENGAGEMENT&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Engagement is a concept that Adam Grant and Daniel Kahneman are discussing, and is related to the workplace and employee wellbeing."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;INSPIRATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Inspiration is a concept that is discussed in the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;DANIEL KAHNEMAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Daniel Kahneman is a Nobel Prize winner for his work on decision-making and cognitive biases, known for his ability to change his mind and enjoy being surprised."&lt;SEP&gt;"Daniel Kahneman is a Nobel Prize-winning economist and psychologist who challenges the idea of trusting intuition and believes that reducing misery is a more important objective for society than promoting happiness."&lt;SEP&gt;"Daniel Kahneman is a Nobel laureate who has written books like Thinking Fast and Slow and Noise, and has collaborated with Amos Tversky. He shares his insights on decision-making, judgment, and collaboration."&lt;SEP&gt;"Daniel Kahneman is a renowned psychologist who shares his experiences and insights on human judgment and decision-making, including his work on the Israeli army's interviewing system."&lt;SEP&gt;"Daniel Kahneman is a researcher who has worked with Gallup and has a unique perspective on mistakes and learning."&lt;SEP&gt;"Daniel Kahneman is an eminent scholar of decision-making, known for his work on the topic and the recipient of a Nobel Prize."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60&lt;SEP&gt;chunk-25c4694d2d6ca753e7cc41c51ac882fa&lt;SEP&gt;chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-5bbae5cc806ba2844c4498d9dd0cd661&lt;SEP&gt;chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</node>
+<node id="&quot;INTERVIEWING SYSTEM&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"The Interviewing System designed by Daniel Kahneman is a tool used to determine suitability for combat units in the Israeli Army."</data>
+  <data key="d2">chunk-25c4694d2d6ca753e7cc41c51ac882fa</data>
+</node>
+<node id="&quot;JESSICA GLAZER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Jessica Glazer is a producer of the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;MISTAKES&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Mistakes are a concept that Daniel Kahneman has a unique perspective on, and are related to learning and personal growth."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;DECISION-MAKING&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Decision-Making is the topic of conversation between Daniel Kahneman and Adam Grant, and is the focus of Daniel Kahneman's work."&lt;SEP&gt;"Decision-making is a concept discussed by Daniel Kahneman and Adam Grant, highlighting the importance of balancing intuition and data-driven approaches."</data>
+  <data key="d2">chunk-25c4694d2d6ca753e7cc41c51ac882fa&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</node>
+<node id="&quot;RICK KWAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Rick Kwan is the mixer of the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;THINKING FAST AND SLOW&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Thinking Fast and Slow is a book written by Daniel Kahneman that explores decision-making and judgment."&lt;SEP&gt;"Thinking Fast and Slow is a book written by Daniel Kahneman that has been influential in the field of psychology."&lt;SEP&gt;"Thinking Fast and Slow is a book written by Daniel Kahneman, which he refers to as his Magnum Opus, and has been a significant contribution to the field of psychology."</data>
+  <data key="d2">chunk-76f749b769e68d1134b7e31a827f2beb&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60&lt;SEP&gt;chunk-4333e14336948b4072f2187836f557e1</data>
+</node>
+<node id="&quot;LEARNING&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Learning is a concept that Daniel Kahneman is interested in, and is related to mistakes and personal growth."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;PAUL DURBIN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Paul Durbin is the fact-checker of the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;PERSONAL GROWTH&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Personal growth is a concept that is related to learning and mistakes, and is relevant to the discussion between Adam Grant and Daniel Kahneman."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;HANSDALE HSU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Hansdale Hsu is the composer of the original music for the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;INTRINSIC MOTIVATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Intrinsic motivation is a concept that Adam Grant mentions, and is related to employee engagement and wellbeing."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;ALLISON LEYTON-BROWN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Allison Leyton-Brown is the composer of the original music for the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;COMPULSIVE WORKAHOLIC&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Compulsive workaholic is a concept that Adam Grant mentions, and is related to employee engagement and wellbeing."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;COSMIC STANDARD&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Cosmic Standard is a production company that produces additional content for the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;MISERY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Misery is a concept that Daniel Kahneman believes is more important to address than happiness, as it has a greater impact on quality of life."</data>
+  <data key="d2">chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</node>
+<node id="&quot;INTRINSICALLY MOTIVATED WORKAHOLIC&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Intrinsically motivated workaholic is a concept that Adam Grant mentions, and is related to employee engagement and wellbeing."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;SUFFERING&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Suffering is a concept that Daniel Kahneman believes is concentrated in a small percentage of the population, and that addressing it should be a priority for policy."</data>
+  <data key="d2">chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</node>
+<node id="&quot;TED SPEAKERS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED Speakers is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;TAKEN FOR GRANTED&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Taken for Granted is a podcast hosted by Adam Grant, where he converses with guests about various topics."</data>
+  <data key="d2">chunk-25c4694d2d6ca753e7cc41c51ac882fa</data>
+</node>
+<node id="&quot;PANDEMIC&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The pandemic is an event that Adam Grant mentions, and is related to employee wellbeing and engagement."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;HUMAN JUDGMENT&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Human judgment is a concept explored by Daniel Kahneman and Adam Grant, discussing its strengths and limitations."</data>
+  <data key="d2">chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</node>
+<node id="&quot;TED FELLOWS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED Fellows is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;UK&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The UK is a country where the ideas of Daniel Kahneman have been accepted and applied, according to Adam Grant."</data>
+  <data key="d2">chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</node>
+<node id="&quot;RESEARCHER&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"Researcher is a role that Daniel Kahneman has, and is related to his work with Gallup and his perspective on mistakes and learning."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;INDIVIDUAL DIFFERENCES&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Individual differences is a concept mentioned by Daniel Kahneman as an important area of study, highlighting the need to move beyond average effects."</data>
+  <data key="d2">chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</node>
+<node id="&quot;TED TRANSLATORS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED Translators is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;ISRAELI ARMY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Israeli Army is mentioned as an organization for which Daniel Kahneman designed an interviewing system to determine suitability for combat units."&lt;SEP&gt;"The Israeli army is the organization for which Daniel Kahneman designed an interviewing system to determine suitability for combat units."</data>
+  <data key="d2">chunk-25c4694d2d6ca753e7cc41c51ac882fa&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</node>
+<node id="&quot;ORGANIZATIONAL PSYCHOLOGIST&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"Organizational psychologist is a role that Adam Grant has, and is related to his interest in employee wellbeing and engagement."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;DAN GILBERT&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dan Gilbert is a researcher mentioned by Daniel Kahneman, who coined the term 'un-believing' to describe the difficulty of changing one's mind."</data>
+  <data key="d2">chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</node>
+<node id="&quot;TEDX ORGANIZERS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TEDx Organizers is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;AMOS TVERSKY&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Amos Tversky was a collaborator of Daniel Kahneman and is mentioned as someone with whom Kahneman had a legendary collaboration."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1</data>
+</node>
+<node id="&quot;MESSENGER RNA TECHNOLOGY&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Messenger RNA technology was initially seen as a joke but ultimately led to the development of the COVID vaccine, highlighting the importance of persistence and irrational optimism."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED COMMUNITY&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED Community is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;RETHINKING&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"ReThinking is a podcast hosted by Adam Grant that explores ideas and insights from various guests."&lt;SEP&gt;"ReThinking is a podcast hosted by Adam Grant that explores the science of what makes us tick."&lt;SEP&gt;"ReThinking is a podcast that shares ideas and inspires people."</data>
+  <data key="d2">chunk-76f749b769e68d1134b7e31a827f2beb&lt;SEP&gt;chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;NOISE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Noise is a book written by Daniel Kahneman that explores the concept of noise in decision-making and judgment."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1</data>
+</node>
+<node id="&quot;THE AUDACIOUS PROJECT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Audacious Project is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;COVID VACCINE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The COVID vaccine is a significant achievement that resulted from the persistence and irrational optimism of a small group of scientists."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED AUDIO COLLECTIVE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"TED Audio Collective is a collection of podcasts, including ReThinking, that share ideas and inspire people."&lt;SEP&gt;"The TED Audio Collective is the producer of the podcast ReThinking, which is hosted by Adam Grant."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot; CONFIRMATION BIAS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Confirmation bias is a cognitive bias that involves giving more weight to information that confirms one's existing beliefs."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED@WORK&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED@Work is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;INTUITION&quot;">
+  <data key="d0">"CONCEPT"&gt;</data>
+  <data key="d1">"Intuition is a concept discussed by Daniel Kahneman and Adam Grant, highlighting its role in human judgment and decision-making."&lt;SEP&gt;&lt;Intuition is a concept discussed by Daniel Kahneman and Adam Grant, with Daniel Kahneman arguing that it can be a useful guide for decision-making if delayed and informed by data."</data>
+  <data key="d2">chunk-25c4694d2d6ca753e7cc41c51ac882fa&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</node>
+<node id="&quot;COLIN HELMS&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Colin Helms is a member of the ReThinking team, working as a producer."&lt;SEP&gt;"Colin Helms is a member of the team that produces the podcast ReThinking."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;DECISION HEURISTIC&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Decision heuristic refers to a mental shortcut or rule of thumb used to make decisions, often influenced by cognitive biases."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED ED&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED Ed is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;COMBAT UNITS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Combat Units are part of the Israeli Army, and the interviewing system designed by Daniel Kahneman is used to determine suitability for these units."</data>
+  <data key="d2">chunk-25c4694d2d6ca753e7cc41c51ac882fa</data>
+</node>
+<node id="&quot;GRETTA COHN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Gretta Cohn is a member of the ReThinking team, working as a producer."&lt;SEP&gt;"Gretta Cohn is a member of the team that produces the podcast ReThinking."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;COGNITIVE BIAS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Cognitive bias refers to a systematic error in thinking and decision-making, often resulting from mental shortcuts or rules of thumb."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED INSTITUTE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED Institute is an event where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;NOBEL PRIZE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Nobel Prize is a prestigious award that Daniel Kahneman has won, recognizing his contributions to economics and psychology."&lt;SEP&gt;"The Nobel Prize is a prestigious award that Daniel Kahneman won for his work on decision-making."&lt;SEP&gt;"The Nobel Prize is an award given to Daniel Kahneman for his work on decision-making."&lt;SEP&gt;"The Nobel Prize is mentioned as an award that Daniel Kahneman received at the age of 68, which he believes had a positive impact on his career."</data>
+  <data key="d2">chunk-25c4694d2d6ca753e7cc41c51ac882fa&lt;SEP&gt;chunk-76f749b769e68d1134b7e31a827f2beb&lt;SEP&gt;chunk-5bbae5cc806ba2844c4498d9dd0cd661&lt;SEP&gt;chunk-4333e14336948b4072f2187836f557e1</data>
+</node>
+<node id="&quot;DAN O’DONNELL&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dan O’Donnell is a member of the ReThinking team, working as a producer."&lt;SEP&gt;"Dan O’Donnell is a member of the team that produces the podcast ReThinking."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;IRRATIONAL PERSISTENCE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Irrational persistence refers to the tendency to continue pursuing a goal or idea despite evidence or rational reasoning suggesting otherwise."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED BLOG&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED Blog is a platform where experts share their ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;JOANN DELUNA&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"JoAnn DeLuna is a member of the ReThinking team, working as a producer."&lt;SEP&gt;"JoAnn DeLuna is a member of the team that produces the podcast ReThinking."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;IRRATIONAL OPTIMISM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Irrational optimism refers to the tendency to be overly optimistic about the outcome of a situation or idea, despite evidence or rational reasoning suggesting otherwise."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED PODCASTS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"TED Podcasts is a collection of podcasts that share ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;GRACE RUBENSTEIN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Grace Rubenstein is a member of the ReThinking team, working as a producer."&lt;SEP&gt;"Grace Rubenstein is a member of the team that produces the podcast ReThinking."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;SOCIAL SCIENCE&quot;">
+  <data key="d0">"FIELD OF STUDY"</data>
+  <data key="d1">"Social science is the field of study that examines human behavior, social relationships, and institutions."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED APP&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"TED App is a mobile application that allows users to access TED content."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;MICHELLE QUINT&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Michelle Quint is a member of the ReThinking team, working as a producer."&lt;SEP&gt;"Michelle Quint is a member of the team that produces the podcast ReThinking."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;DOCTORAL STUDENT&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A doctoral student is someone pursuing advanced academic studies, often in a field such as social science."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED MEMBERSHIP&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"TED Membership is a program that offers exclusive benefits to its members."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;HUMAN WELFARE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Human Welfare is a concept that refers to the overall well-being of individuals and society, which Daniel Kahneman believes should be the focus of policy."</data>
+  <data key="d2">chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</node>
+<node id="&quot;BANBAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Banban is a member of the team that produces the podcast ReThinking."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1</data>
+</node>
+<node id="&quot;JOURNALIST&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A journalist is a person who researches and writes news articles, often interviewing experts and gathering information."</data>
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</node>
+<node id="&quot;TED CONFERENCES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"TED Conferences is a company that produces conferences and events that share ideas and inspire people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;TRANSMITTER MEDIA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Transmitter Media is a producer of the podcast ReThinking."&lt;SEP&gt;"Transmitter Media is a production company that produces the ReThinking podcast."</data>
+  <data key="d2">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;GALLUP&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Gallup is an organization that has developed a concept of engagement and has worked with Daniel Kahneman."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;TECHNOLOGY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Technology is a concept that is discussed in the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;POSITIVE PSYCHOLOGY MOVEMENT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Positive Psychology Movement is a field of study that focuses on promoting happiness and well-being, but Daniel Kahneman critiques it for being too conservative and not addressing the root causes of misery."</data>
+  <data key="d2">chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</node>
+<node id="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"TED Conferences, LLC is the parent organization of TED, a global community that shares ideas and inspires people."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;WORKPLACE&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"The workplace is a location where employees spend their time and where their wellbeing and engagement are important."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;INNOVATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Innovation is a concept that is discussed in the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;ADAM GRANT&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Adam Grant is a host of the podcast 'Taken for Granted' and is conversing with Daniel Kahneman about decision-making and intuition."&lt;SEP&gt;"Adam Grant is a social scientist who interviews Daniel Kahneman about his thoughts on decision-making, cognitive biases, and the importance of being open-minded."&lt;SEP&gt;"Adam Grant is an expert who engages in a conversation with Daniel Kahneman, exploring topics such as intuition, human judgment, and decision-making."&lt;SEP&gt;"Adam Grant is an organizational psychologist and the host of the podcast ReThinking, who interviews Daniel Kahneman and discusses topics such as happiness, character, and misery."&lt;SEP&gt;"Adam Grant is an organizational psychologist who is interested in employee wellbeing and the concept of engagement."&lt;SEP&gt;"Adam Grant is the host of the ReThinking podcast and a TED speaker, who has won a Nobel Prize and has a productive and happy career."&lt;SEP&gt;"Adam Grant is the host of the podcast ReThinking and has a conversation with Daniel Kahneman about his work and ideas."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60&lt;SEP&gt;chunk-25c4694d2d6ca753e7cc41c51ac882fa&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def&lt;SEP&gt;chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-5bbae5cc806ba2844c4498d9dd0cd661&lt;SEP&gt;chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</node>
+<node id="&quot;BANBAN CHENG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Banban Cheng is a member of the ReThinking team, working as a producer."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;EMPLOYEE WELLBEING&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Employee wellbeing is a concept that Adam Grant is interested in and is related to the workplace."</data>
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</node>
+<node id="&quot;CREATIVITY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Creativity is a concept that is discussed in the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;ANNA PHELAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Anna Phelan is a member of the ReThinking team, working as a producer."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;CONSTANZA GALLARDO&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Constanza Gallardo is a producer of the ReThinking podcast."</data>
+  <data key="d2">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</node>
+<node id="&quot;GALLUP&quot;&gt;">
+  <data key="d2">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+  <data key="d1">"Daniel Kahneman has worked with Gallup and has a positive view of their concept of engagement."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;CONFIRMATION BIAS&quot;">
+  <data key="d2">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+  <data key="d1">"Confirmation bias is a type of cognitive bias that involves giving more weight to information that confirms one's existing beliefs."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<edge source="&quot;ENGAGEMENT&quot;" target="&quot;EMPLOYEE WELLBEING&quot;">
+  <data key="d3">4.0</data>
+  <data key="d4">"Employee wellbeing and engagement are related concepts that Adam Grant is interested in, and are relevant to the workplace."</data>
+  <data key="d5">"conceptual relationship, shared context"</data>
+  <data key="d6">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;MESSENGER RNA TECHNOLOGY&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Daniel Kahneman discusses the importance of persistence and irrational optimism in the development of messenger RNA technology and the COVID vaccine."</data>
+  <data key="d5">"persistence, irrational optimism"</data>
+  <data key="d6">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;GALLUP&quot;&gt;">
+  <data key="d3">12.0</data>
+  <data key="d4">"Daniel Kahneman has worked with Gallup and has a positive view of their concept of engagement."</data>
+  <data key="d5">"professional collaboration, shared values"</data>
+  <data key="d6">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;AMOS TVERSKY&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"Daniel Kahneman collaborated with Amos Tversky, which is described as a legendary collaboration that brought joy and understanding to Kahneman's work."</data>
+  <data key="d5">"collaboration, mutual understanding"</data>
+  <data key="d6">chunk-4333e14336948b4072f2187836f557e1</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;THINKING FAST AND SLOW&quot;">
+  <data key="d3">27.0</data>
+  <data key="d4">"Daniel Kahneman wrote Thinking Fast and Slow, which has been a significant contribution to the field of psychology, and has since rethought some of the ideas presented in the book."&lt;SEP&gt;"Thinking Fast and Slow is a book written by Daniel Kahneman that has been influential in the field of psychology."</data>
+  <data key="d5">"author, book"&lt;SEP&gt;"authorship, personal growth"</data>
+  <data key="d6">chunk-76f749b769e68d1134b7e31a827f2beb&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;ADAM GRANT&quot;">
+  <data key="d3">114.0</data>
+  <data key="d4">"Adam Grant and Daniel Kahneman are discussing the concept of engagement and wellbeing in the workplace, sharing their perspectives and experiences."&lt;SEP&gt;"Adam Grant and Daniel Kahneman engage in a conversation, exploring various topics related to human judgment and decision-making, showcasing their mutual respect and interest in each other's work."&lt;SEP&gt;"Adam Grant is learning from Daniel Kahneman's expertise on decision-making and cognitive biases, highlighting the importance of being open-minded and considering alternative perspectives."&lt;SEP&gt;"Daniel Kahneman and Adam Grant are conversing about decision-making and intuition, with Adam Grant interviewing Daniel Kahneman for his podcast."&lt;SEP&gt;"Daniel Kahneman is being interviewed by Adam Grant, discussing his thoughts on decision-making, cognitive biases, and the importance of being open-minded."&lt;SEP&gt;"Daniel Kahneman is interviewed by Adam Grant on the podcast ReThinking, discussing his ideas and work."&lt;SEP&gt;"Daniel Kahneman is interviewed by Adam Grant on the podcast ReThinking, discussing topics such as happiness, character, and misery."</data>
+  <data key="d5">"academic discussion, shared interests"&lt;SEP&gt;"collaboration, knowledge sharing"&lt;SEP&gt;"conversation, decision-making expertise"&lt;SEP&gt;"interview, conversation, decision-making"&lt;SEP&gt;"interview, discussion"&lt;SEP&gt;"interview, discussion, ideas"&lt;SEP&gt;"learning, open-mindedness"</data>
+  <data key="d6">chunk-20aa720950b0ad89e770ec3c3d078234&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60&lt;SEP&gt;chunk-25c4694d2d6ca753e7cc41c51ac882fa&lt;SEP&gt;chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-5bbae5cc806ba2844c4498d9dd0cd661&lt;SEP&gt;chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;ISRAELI ARMY&quot;">
+  <data key="d3">34.0</data>
+  <data key="d4">"Daniel Kahneman designed an interviewing system for the Israeli Army to determine suitability for combat units, showcasing his expertise in decision-making."&lt;SEP&gt;"Daniel Kahneman designed an interviewing system for the Israeli army, which was initially met with resistance but ultimately proved effective."</data>
+  <data key="d5">"expertise, decision-making, interviewing system"&lt;SEP&gt;"problem-solving, innovation"</data>
+  <data key="d6">chunk-25c4694d2d6ca753e7cc41c51ac882fa&lt;SEP&gt;chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;NOBEL PRIZE&quot;">
+  <data key="d3">25.0</data>
+  <data key="d4">"Daniel Kahneman has won a Nobel Prize, recognizing his contributions to economics and psychology."&lt;SEP&gt;"Receiving the Nobel Prize at the age of 68 had a positive impact on Daniel Kahneman's career, making the end of his career more productive and happier."</data>
+  <data key="d5">"award, recognition"&lt;SEP&gt;"career impact, recognition"</data>
+  <data key="d6">chunk-76f749b769e68d1134b7e31a827f2beb&lt;SEP&gt;chunk-4333e14336948b4072f2187836f557e1</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;INTUITION&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Daniel Kahneman discusses the role of intuition in human judgment and decision-making, highlighting its importance and limitations."</data>
+  <data key="d5">"concept development, critical thinking"</data>
+  <data key="d6">chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</edge>
+<edge source="&quot;DANIEL KAHNEMAN&quot;" target="&quot;POSITIVE PSYCHOLOGY MOVEMENT&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Daniel Kahneman critiques the Positive Psychology Movement for being too conservative and not addressing the root causes of misery, suggesting that reducing misery is a more important objective for society."</data>
+  <data key="d5">"critique, conservatism"</data>
+  <data key="d6">chunk-76f749b769e68d1134b7e31a827f2beb</data>
+</edge>
+<edge source="&quot;INTERVIEWING SYSTEM&quot;" target="&quot;COMBAT UNITS&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The Interviewing System designed by Daniel Kahneman is used to determine suitability for Combat Units in the Israeli Army."</data>
+  <data key="d5">"technology, suitability determination"</data>
+  <data key="d6">chunk-25c4694d2d6ca753e7cc41c51ac882fa</data>
+</edge>
+<edge source="&quot;MISTAKES&quot;" target="&quot;LEARNING&quot;">
+  <data key="d3">4.0</data>
+  <data key="d4">"Mistakes and learning are related concepts that Daniel Kahneman has a unique perspective on, and are relevant to personal growth."</data>
+  <data key="d5">"conceptual relationship, shared context"</data>
+  <data key="d6">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</edge>
+<edge source="&quot;DECISION-MAKING&quot;" target="&quot;INTUITION&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Decision-Making and Intuition are related concepts discussed by Daniel Kahneman and Adam Grant, with intuition being a potential guide for decision-making."</data>
+  <data key="d5">"related concepts, decision-making"</data>
+  <data key="d6">chunk-25c4694d2d6ca753e7cc41c51ac882fa</data>
+</edge>
+<edge source="&quot;PERSONAL GROWTH&quot;" target="&quot;INTRINSIC MOTIVATION&quot;">
+  <data key="d3">4.0</data>
+  <data key="d4">"Personal growth and intrinsic motivation are related concepts that are relevant to the discussion between Adam Grant and Daniel Kahneman."</data>
+  <data key="d5">"conceptual relationship, shared context"</data>
+  <data key="d6">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</edge>
+<edge source="&quot;TED SPEAKERS&quot;" target="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"TED Speakers is an event produced by TED."</data>
+  <data key="d5">"production, event"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;TAKEN FOR GRANTED&quot;" target="&quot;ADAM GRANT&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Adam Grant is the host of the podcast 'Taken for Granted', where he converses with guests about various topics."</data>
+  <data key="d5">"hosting, conversation"</data>
+  <data key="d6">chunk-25c4694d2d6ca753e7cc41c51ac882fa</data>
+</edge>
+<edge source="&quot;RETHINKING&quot;" target="&quot;ADAM GRANT&quot;">
+  <data key="d3">52.0</data>
+  <data key="d4">"Adam Grant is the host of the ReThinking podcast."&lt;SEP&gt;"Adam Grant is the host of the podcast ReThinking, which explores ideas and insights from various guests, including Daniel Kahneman."&lt;SEP&gt;"Adam Grant is the host of the podcast ReThinking, which explores the science of what makes us tick and features interviews with experts like Daniel Kahneman."</data>
+  <data key="d5">"host, podcast"&lt;SEP&gt;"host, podcast, ideas"</data>
+  <data key="d6">chunk-76f749b769e68d1134b7e31a827f2beb&lt;SEP&gt;chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;RETHINKING&quot;" target="&quot;TED AUDIO COLLECTIVE&quot;">
+  <data key="d3">22.0</data>
+  <data key="d4">"ReThinking is a podcast that is part of the TED Audio Collective."&lt;SEP&gt;"The TED Audio Collective produces the podcast ReThinking, which is hosted by Adam Grant."</data>
+  <data key="d5">"collection, podcast"&lt;SEP&gt;"producer, podcast, ideas"</data>
+  <data key="d6">chunk-4333e14336948b4072f2187836f557e1&lt;SEP&gt;chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;THE AUDACIOUS PROJECT&quot;" target="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The Audacious Project is an event produced by TED."</data>
+  <data key="d5">"production, event"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;TED AUDIO COLLECTIVE&quot;" target="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"TED Audio Collective is a collection of podcasts, including ReThinking, that are produced by TED."</data>
+  <data key="d5">"production, collection"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;TED AUDIO COLLECTIVE&quot;" target="&quot;ADAM GRANT&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Adam Grant hosts the podcast ReThinking, which is produced by the TED Audio Collective."</data>
+  <data key="d5">"host, producer, podcast"</data>
+  <data key="d6">chunk-4333e14336948b4072f2187836f557e1</data>
+</edge>
+<edge source="&quot;TED@WORK&quot;" target="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"TED@Work is an event produced by TED."</data>
+  <data key="d5">"production, event"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;INTUITION&quot;" target="&quot;ADAM GRANT&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Adam Grant engages in a conversation with Daniel Kahneman about intuition, highlighting its role in human judgment and decision-making."</data>
+  <data key="d5">"concept exploration, collaboration"</data>
+  <data key="d6">chunk-b1458183cf5bb70b8540402c3ede1a60</data>
+</edge>
+<edge source="&quot;TED ED&quot;" target="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"TED Ed is an event produced by TED."</data>
+  <data key="d5">"production, event"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;COGNITIVE BIAS&quot;" target="&quot;CONFIRMATION BIAS&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Confirmation bias is a type of cognitive bias that involves giving more weight to information that confirms one's existing beliefs."</data>
+  <data key="d5">"cognitive bias classification, decision-making influence"</data>
+  <data key="d6">chunk-5bbae5cc806ba2844c4498d9dd0cd661</data>
+</edge>
+<edge source="&quot;TED INSTITUTE&quot;" target="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"TED Institute is an event produced by TED."</data>
+  <data key="d5">"production, event"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;TED APP&quot;" target="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"TED App is a mobile application developed by TED Conferences, LLC."</data>
+  <data key="d5">"technology, development"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;TED MEMBERSHIP&quot;" target="&quot;TED CONFERENCES, LLC&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"TED Membership is a program offered by TED Conferences, LLC."</data>
+  <data key="d5">"membership, program"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;GALLUP&quot;" target="&quot;WORKPLACE&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Gallup's concept of engagement is relevant to the workplace and is being discussed by Adam Grant and Daniel Kahneman."</data>
+  <data key="d5">"organizational relevance, workplace application"</data>
+  <data key="d6">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</edge>
+<edge source="&quot;TED CONFERENCES, LLC&quot;" target="&quot;ADAM GRANT&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"Adam Grant is a TED speaker and host of the ReThinking podcast, which is produced by TED."</data>
+  <data key="d5">"speaker, host, production"</data>
+  <data key="d6">chunk-b9bb76f89b5ff70cee3cb6154b5a0def</data>
+</edge>
+<edge source="&quot;WORKPLACE&quot;" target="&quot;ADAM GRANT&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Adam Grant is interested in improving employee wellbeing and engagement in the workplace, and is exploring ways to do so."</data>
+  <data key="d5">"professional interest, workplace improvement"</data>
+  <data key="d6">chunk-20aa720950b0ad89e770ec3c3d078234</data>
+</edge>
+</graph></graphml>

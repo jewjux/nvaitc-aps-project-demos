@@ -2,9 +2,9 @@
 
 This repository gathers clear, runnable demos of projects that apply NVIDIA technology to real research and industry needs. It gives colleagues and partners one place to browse, clone, and reuse working examples, so they can adopt the same tools with less effort. Each folder holds:
 
-- A short "why it matters" note
-- A quick-start script (usually a single `docker run` or `make deploy`)
-- A concise README that lists hardware, software stack, and expected results
+- A comprehensive README with project overview and setup instructions
+- Hardware and software requirements clearly documented
+- Expected results and performance metrics
 
 The collection covers work done by our internal teams and by external collaborators in higher-education, research labs, and industry.
 
@@ -19,17 +19,21 @@ The collection covers work done by our internal teams and by external collaborat
 
 ```
 industry-use-case-demos/
-├── projects/              # Individual demo projects
-│   ├── test project 1/    # Sample project for testing
-│   └── test project 2/    # Another sample project
-├── .gitignore             # Git ignore file
-└── README.md              # This file
+├── projects/                             # Individual demo projects
+│   ├── intelliexo-ai-advisor-panel/     # AI-powered conversational advisor platform
+│   ├── progo-protein-evaluation-tm-plddt/ # Protein structure prediction and evaluation
+│   ├── explorer-ai/                     # Curiosity-driven AI agent platform
+│   └── resume-evaluator-ai/             # Intelligent resume screening platform
+├── .gitignore                            # Git ignore file
+└── README.md                             # This file
 ```
 
 ## Current Projects
 
-- **Test Project 1**: Sample project template for NVIDIA technology demonstrations
-- **Test Project 2**: Another sample project showcasing different implementation approaches
+- **IntelliExo AI Advisor Panel**: AI-powered conversational platform featuring historical figures and thought leaders as personal advisors using NVIDIA's LLM and RAG technologies
+- **ProGo Protein Evaluation (TM-PLDDT)**: Comprehensive protein structure prediction and evaluation pipeline using ESMfold integration and advanced structural similarity analysis
+- **Explorer AI**: Curiosity-driven agent platform demonstrating ReAct architecture with web search integration and persistent memory using NVIDIA NIMs
+- **Resume Evaluator AI**: Full-stack application for intelligent resume screening and candidate evaluation, leveraging NVIDIA's Llama 3.1 405B model for HR automation
 
 ## Prerequisites
 
@@ -49,4 +53,10 @@ When adding a new demo:
 
 ## Support
 
-For questions about specific demos, please check the individual project README files first. For general repository questions, open an issue in this repository. 
+For questions about specific demos, please check the individual project README files first. For general repository questions, open an issue in this repository.
+
+## License
+
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Note: Individual projects may contain third-party dependencies with their own licenses. 

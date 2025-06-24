@@ -1,0 +1,3 @@
+"""
+ProteinGO analysis package.
+"""

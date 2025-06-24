@@ -1,0 +1,59 @@
+/* InputSection.css */
+
+.title {
+  font-size: 2em;
+  margin-bottom: 40px;
+  color: #f6f6f6;
+  font-family: 'Tahoma', sans-serif;
+}
+
+.inputForm {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin: 24px;
+  color: #f6f6f6;
+  font-family: 'Tahoma', sans-serif;
+}
+
+.inputLabel {
+  margin-bottom: 4px;
+  font-weight: bold;
+  font-family: 'Tahoma', sans-serif;
+  color: #f6f6f6;
+}
+
+.inputFieldFile {
+  margin-bottom: 28px;
+  min-height: 20px;
+}
+
+.inputFieldShort {
+  margin-bottom: 28px;
+  min-height: 24px;
+  max-width: 400px;
+  border-radius: 6px;
+  border-width: 1px;
+  font-family: 'Tahoma', sans-serif;
+}
+
+.inputFieldLong {
+  margin-bottom: 28px;
+  min-height: 24px;
+  max-height: 300px;
+  border-radius: 6px;
+  font-family: 'Tahoma', sans-serif;
+}
+
+.submitButton {
+  margin-top: 20px;
+  align-self: flex-start;
+  padding: 8px 24px;
+  font-size: 1.2em;
+  font-family: 'Tahoma', sans-serif;
+  border-radius: 6px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

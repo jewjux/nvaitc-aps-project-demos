@@ -1,0 +1,53 @@
+.title {
+  font-size: 2em;
+  margin-bottom: 40px;
+  color: #f6f6f6;
+}
+
+.accordion {
+  margin-bottom: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.accordionSummary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ebebeb;
+  padding: 8px 16px;
+}
+
+.accordionName {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.accordionScore {
+  margin-left: auto;
+  margin-right: 16px;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #888;
+}
+
+.accordionDetails {
+  padding: 16px;
+  background-color: #fafafa;
+  text-align: left;
+}
+
+.accordionSubheader {
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.accordionJustification,
+.accordionResumeSummary,
+.accordionSuggestion {
+  margin-top: 8px;
+  text-align: justify;
+  background-color: #ebebeb;
+  padding: 8px;
+  border-radius: 4px;
+}

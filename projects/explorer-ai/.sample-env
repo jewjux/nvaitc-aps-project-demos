@@ -1,0 +1,20 @@
+# SAMPLE .env file, please edit accordingly
+
+NVIDIA_API_KEY=<insert your NVIDIA NIMs API KEY>
+# OpenAI - https://platform.openai.com/playground/chat
+
+# -------! DO NOT CHANGE. You DO NOT need to enter in a valid OpenAPI key !-------#
+OPENAI_API_KEY="xxx"
+# -------!  DO NOT CHANGE. You DO NOT need to enter in a valid OpenAPI key !-------#
+
+# Groq - https://console.groq.com
+GROQ_API_KEY=<insert your GROQ API KEY>
+
+# Tavily Search - https://app.tavily.com
+TAVILY_API_KEY=<insert your TAVILY API KEY>
+
+# LangSmith - https://smith.langchain.com
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+LANGSMITH_API_KEY=<insert your LANGCHAIN API KEY>
+LANGCHAIN_PROJECT=<insert Project name created in Langchain for this project>

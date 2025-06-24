@@ -138,4 +138,22 @@ config/production.json
 *.pem
 *.p12
 *.key
-*.crt 
+*.crt
+
+# Add official Python extensions.
+# Visit https://github.com/github/gitignore/blob/main/Python.gitignore
+*.egg-info
+__pycache__
+
+# Large data files
+**/vdb_*.json
+**/graph_chunk_entity_relation.graphml
+**/shake.txt
+**/voices/*.mp3
+**/bin/foldseek*
+# Ignore large data files over 5MB
+*.graphml
+**/data/**/*.json
+
+# Binary executables
+**/bin/* 

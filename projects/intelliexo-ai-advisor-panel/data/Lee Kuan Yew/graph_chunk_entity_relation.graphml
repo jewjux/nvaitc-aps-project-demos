@@ -1,0 +1,1519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;SABAH AND SARAWAK&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Sabah and Sarawak are locations in Malaysia that are mentioned as part of the country's territory."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;PILGRIMAGE&quot;">
+  <data key="d0">"EVENT"&gt;</data>
+  <data key="d1">"Pilgrimage is mentioned as a bi-annual trip made by Dr. Toh to visit his family in Taiping."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;SYDNEY CONFERENCE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Sydney Conference is mentioned as an upcoming event where the Chief Justice will be attending, highlighting its relevance to Singapore's constitutional provisions."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;THE PRIME MINISTER OF MALAYSIA&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The Prime Minister of Malaysia is a person who is mentioned as making implicit threats regarding trade negotiations between Singapore and Indonesia."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;DR. GOH KENG SWEE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dr. Goh Keng Swee is the Minister for Defence and Security in Singapore, responsible for evaluating the security risks and making decisions about defense arrangements."</data>
+  <data key="d2">chunk-443d26929602da8fceb8e9de5edd5752</data>
+</node>
+<node id="&quot;STAMFORD RAFFLES&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Stamford Raffles is a person who is mentioned as the founder of Singapore."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;CHINESE FAMILIES&quot;">
+  <data key="d0">"ENTITY"&gt;</data>
+  <data key="d1">"Chinese families are mentioned as having reunions during festivals like Chinese New Year."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;COMMUNIST UNITED FRONT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Communist United Front is mentioned as a political entity that used the detained communists as a campaign issue."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;SINGAPORE'S WATER SUPPLY AGREEMENT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Singapore's water supply agreement is an event that is mentioned as being affected by the trade negotiations between Singapore and Indonesia."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;BRIDGESTONE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Bridgestone is an organization that is mentioned as a competitor to Dunlop's."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;MOON FESTIVALS&quot;">
+  <data key="d0">"EVENT"&gt;</data>
+  <data key="d1">"Moon festivals are mentioned as part of Chinese cultural celebrations."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;PARATROOPERS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The paratroopers are mentioned as being supported by the detained communists, highlighting the latter's involvement in conflict."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;THE TRADE NEGOTIATIONS BETWEEN SINGAPORE AND INDONESIA&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The trade negotiations between Singapore and Indonesia are an event that is central to the conversation."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;DR. TOH&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dr. Toh is a colleague of Lee Kuan Yew, and is mentioned as a potential successor to Lee if he were to resign."&lt;SEP&gt;"Dr. Toh is a member of Lee Kuan Yew's Cabinet, born and bred in Taiping, and having family ties there."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;ANZUS PACT NEGOTIATION&quot;">
+  <data key="d0">"EVENT"&gt;</data>
+  <data key="d1">"ANZUS pact negotiation is mentioned as a possible scenario where Victoria might face a similar situation to Singapore."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;FEDERATION&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Federation is mentioned as a past context in which the detained communists were re-committed."&lt;SEP&gt;"Federation is mentioned as the entity that Singapore was part of before separating."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;THE WATER SUPPLY FROM JOHORE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The water supply from Johore is a concept that is mentioned as being crucial to Singapore's survival."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;DR. GOH&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dr. Goh is a colleague of Lee Kuan Yew, and is mentioned as a potential successor to Lee if he were to resign."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot; ULTIMATUM&quot;">
+  <data key="d0">"EVENT"&gt;</data>
+  <data key="d1">"Ultimatum is mentioned as a possible scenario where the American President might put pressure on Australia."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;SOUTH-EAST ASIA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"South-East Asia is mentioned as a region where Singapore plays a crucial role in maintaining stability."&lt;SEP&gt;"South-East Asia is mentioned as the region where Singapore is located, and where the country has had economic and social development."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;TENGKU ABDUL RAHMAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Tengku Abdul Rahman is mentioned as saying that Lee Kuan Yew was pleased to get out of the Federation, which Lee denies."&lt;SEP&gt;"Tengku Abdul Rahman is the Prime Minister of Malaysia, mentioned as wanting to suspend the Constitution and rule by edict."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498&lt;SEP&gt;chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;TAN SIEW SIN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Tan Siew Sin is a leader in Malaysia, and is mentioned as someone who has publicly stated that there can be no co-operation with Singapore as long as Lee Kuan Yew is the Prime Minister."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;DATO JA'AFAR ALBAR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dato Ja'afar Albar is a politician who wanted to suspend the Constitution and rule by edict, and is mentioned as having ultras."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;RICHARD CROLL&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Richard Croll is a correspondent from Channel 7 in Sydney, asking questions to Lee Kuan Yew."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;EASTERN EUROPE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Eastern Europe is mentioned as a region that Lee Kuan Yew is not interested in getting involved with."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;CROLL&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Croll is a person who is interviewing Lee Kuan Yew, and is asking him questions about his thoughts on the relations between Singapore and Malaysia."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;DEVAN NAIR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Devan Nair is a colleague of Lee Kuan Yew, mentioned as having been to British jails."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;FORMOSA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Formosa is mentioned as a region that Lee Kuan Yew is not interested in getting involved with."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;SAM LIPSKI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Sam Lipski is a correspondent from the Australian Bulletin, participating in the interview with Lee Kuan Yew."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;YOUNG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Young is another person who is interviewing Lee Kuan Yew, and is asking him questions about the future of Singapore."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;MR. JEK&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr. Jek is a colleague of Lee Kuan Yew, mentioned as having been to British jails."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;CHIEF JUSTICE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The Chief Justice is mentioned as an individual who will be attending the Sydney Conference, highlighting his role in ensuring constitutional provisions."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;GAVIN YOUNG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Gavin Young is a correspondent from the London Observer, participating in the interview with Lee Kuan Yew."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;SOCIALIST INTERNATIONAL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Socialist International is mentioned as a organization that Lee Kuan Yew is familiar with."&lt;SEP&gt;"Socialist International is mentioned as an organization that has passed telegrams about the situation in Singapore and Malaysia."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;MR. WILSON&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr. Wilson is a personal friend of Lee Kuan Yew, mentioned as someone who would not want to see him in jail."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;CHINESE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Chinese are mentioned as one of the ethnic groups in Singapore that Lee Kuan Yew wants to ensure equality and opportunities for."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;RENE MUCCOLL&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Rene Muccoll is the Chief Foreign Correspondent of the London Daily Express, participating in the interview with Lee Kuan Yew."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;BRITISH LABOUR PARTY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"British Labour Party is mentioned as an organization that has passed telegrams about the situation in Singapore and Malaysia."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;PRINCE SIHANOUK&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Prince Sihanouk is a personal friend of Lee Kuan Yew, mentioned as someone who could provide support for a government in exile."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;MALAYS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Malays are mentioned as one of the ethnic groups in Singapore that Lee Kuan Yew wants to ensure equality and opportunities for."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;KUALA LUMPUR&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Kuala Lumpur is mentioned as the location where Tengku Abdul Rahman made a statement about Lee Kuan Yew."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;CENTRAL GOVERNMENT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Central Government is mentioned as the government of Malaysia, which has had its way in the separation of Singapore and Malaysia."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;SABAH&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Sabah is a region in Malaysia, mentioned as one of the areas where people are not likely to keep quiet."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;LIPSKI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Lipski is an individual who asks questions to Lee Kuan Yew, highlighting Lee's leadership and vision for Singapore."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;INDIANS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Indians are mentioned as one of the ethnic groups in Singapore that Lee Kuan Yew wants to ensure equality and opportunities for."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;VICTORIA&quot;">
+  <data key="d0">"GEO"&gt;</data>
+  <data key="d1">"Victoria is mentioned as an example of a state that might face a similar situation to Singapore, if it were to be separated from the rest of Australia."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;RIOTS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Riots are mentioned as a past event that occurred in Singapore, and are used as an example of the potential consequences of conflict between different ethnic and cultural groups."&lt;SEP&gt;"Riots are mentioned as a possible outcome of communist activity in Singapore."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;SARAWAK&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Sarawak is a region in Malaysia, mentioned as one of the areas where people are not likely to keep quiet."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;AMERICAN PRESIDENT&quot;">
+  <data key="d0">"PERSON"&gt;</data>
+  <data key="d1">"The American President is mentioned as an example of a leader who might put pressure on another country, similar to the situation faced by Singapore."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;CEYLONESE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Ceylonese are mentioned as one of the ethnic groups in Singapore that Lee Kuan Yew wants to ensure equality and opportunities for."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;SEPARATION&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Separation is mentioned as the event of Singapore separating from Malaysia, and is discussed in the context of its impact on the relations between the two countries."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;PHNOM PENH&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Phnom Penh is the capital of Cambodia, mentioned as a place where Lee Kuan Yew could have a government in exile."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;PAKISTANIS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Pakistanis are mentioned as one of the ethnic groups in Singapore that Lee Kuan Yew wants to ensure equality and opportunities for."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;MR. MENZIES&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr. Menzies is a politician mentioned as having a different political orientation from Lee Kuan Yew."&lt;SEP&gt;"Mr. Menzies is mentioned as the leader of Australia, who might face a similar situation to Lee Kuan Yew if Victoria were to be separated from the rest of Australia."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498&lt;SEP&gt;chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;AUSTRALIA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Australia is a country mentioned as having a different perspective on the regional instability, with its leader, Sir Robert Menzies, being wiser and more experienced than Mr. Lee."&lt;SEP&gt;"Australia is mentioned as the country where some of the correspondents are from, and as an example of a country that might face a similar situation to Singapore."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-443d26929602da8fceb8e9de5edd5752</data>
+</node>
+<node id="&quot;COMMON MARKET&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Common Market is mentioned as a concept that is relevant to the relations between Singapore and Malaysia, and is discussed in the context of its potential benefits and drawbacks."&lt;SEP&gt;"Common market is mentioned as a possible arrangement between Singapore and Malaysia, suggested by Lee Kuan Yew."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;BRITISH JAILS&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"British jails are mentioned as places where some of Lee Kuan Yew's colleagues have been imprisoned."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;EURASIANS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Eurasians are mentioned as one of the ethnic groups in Singapore that Lee Kuan Yew wants to ensure equality and opportunities for."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;ANZUS PACT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The ANZUS pact is mentioned as an agreement that might be affected if Victoria were to be separated from the rest of Australia."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;MARXISM-LENINISM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Marxism-Leninism is an ideology mentioned as being relevant to Dr. Goh Keng Swee's expertise and understanding of regional dynamics."</data>
+  <data key="d2">chunk-443d26929602da8fceb8e9de5edd5752</data>
+</node>
+<node id="&quot;CONFRONTATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Confrontation is mentioned as a concept that is relevant to the relations between Singapore and Malaysia, and is discussed in the context of its potential impact on the economy of Singapore."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;PAP&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"PAP is mentioned as a political party that Lee Kuan Yew is part of."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;MR. TAN SIEW SIN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr. Tan Siew Sin is a person who insisted on a clause being inserted in the Agreement, indicating his influence on the decision-making process."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;CHINESE NEW YEAR&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Chinese New Year is mentioned as a festival that Dr. Toh, one of Lee's Cabinet colleagues, celebrates with his family."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;TENGKU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Tengku is a leader in Malaysia, and is mentioned as someone who the speaker believes has a role to play in maintaining the multi-racial situation in Malaysia."&lt;SEP&gt;"Tengku is a person who agreed to a clause for economic co-operation and understood the nexus between defence and security, and commerce or trade and industry."&lt;SEP&gt;"Tengku is a person who is mentioned as saying things without knowing the full story, and is also mentioned as making implicit threats regarding trade negotiations between Singapore and Indonesia."&lt;SEP&gt;"Tengku is mentioned as a leader who re-committed the communists to detention after Federation."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3&lt;SEP&gt;chunk-50031ece7697a83619ad3970ff29f27e&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;ECONOMIC COOPERATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Economic Cooperation is mentioned as a concept that is relevant to the relations between Singapore and Malaysia, and is discussed in the context of its potential benefits and drawbacks."</data>
+  <data key="d2">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</node>
+<node id="&quot;GOVERNMENT OF MALAYSIA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Government of Malaysia is mentioned as an entity that could potentially take over Singapore."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;DUNLOP'S&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Dunlop's is an organization that is mentioned as having a presence in Kuala Lumpur and Singapore, indicating its role in the economy."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;CHANNEL 7&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Channel 7 is a television channel from Sydney, represented by correspondent Richard Croll."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;SWITZERLAND&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Switzerland is mentioned as a possible destination for investment, emphasizing its economic stability."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;MR. MUCCOLL&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr. Muccoll is a person who is discussing trade negotiations with Lee Kuan Yew and mentioning the Tengku's statements and threats."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;GOVERNMENT IN EXILE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A government in exile is mentioned as a possibility for Lee Kuan Yew if he were to be imprisoned."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;DR. SUBANDRIO&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dr. Subandrio is a person who is mentioned as having met with Lee Kuan Yew at Bangkok airport and expressed friendship despite the difficulties between their countries."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;AUSTRALIAN BULLETIN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Australian Bulletin is a publication represented by correspondent Sam Lipski."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;RHIO ISLANDS&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Rhio Islands are a location mentioned as a potential destination for individuals seeking training, posing a security risk to Singapore."</data>
+  <data key="d2">chunk-443d26929602da8fceb8e9de5edd5752</data>
+</node>
+<node id="&quot;PULAU SAMBOE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Pulau Samboe is an Indonesian island that is mentioned as a potential location for trade negotiations between Singapore and Indonesia."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;SEPARATION OF SINGAPORE FROM MALAYSIA&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The separation of Singapore from Malaysia is a key event discussed in the conversation."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;PORT SWETTENHAM&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Port Swettenham is a location in Malaysia that is mentioned as an alternative port for exporting rubber."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;LONDON OBSERVER&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"London Observer is a publication represented by correspondent Gavin Young."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;JOHORE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Johore is a location in Malaysia that is mentioned as being the source of Singapore's water supply."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;BARISAN SOSIALIS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Barisan Sosialis is a communist united front that used the detained communists as a campaign issue."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;CONSTITUTION OF MALAYSIA&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The Constitution of Malaysia is mentioned as a document that Tengku Abdul Rahman wants to suspend."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;INDONESIA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Indonesia is a country that is discussed as being involved in trade negotiations with Singapore."&lt;SEP&gt;"Indonesia is a country that is part of the conversation, with its trade with Singapore being discussed."&lt;SEP&gt;"Indonesia is a neighboring country to Singapore and Malaysia, posing a potential threat, with its territories and influence in the region."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e&lt;SEP&gt;chunk-6854a86acb22ad3eac51fc9607562dc3&lt;SEP&gt;chunk-443d26929602da8fceb8e9de5edd5752</data>
+</node>
+<node id="&quot;PRAI&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Prai is a location in Malaysia that is mentioned as an alternative port for exporting rubber."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;LONDON DAILY EXPRESS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"London Daily Express is a publication represented by correspondent Rene Muccoll."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;MR. CROLL&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr. Croll is a person who is discussing trade negotiations with Lee Kuan Yew and asking questions about the potential consequences of Singapore's actions."&lt;SEP&gt;"Mr. Croll is an individual asking questions to Mr. Lee, seeking his opinion on regional security and cooperation."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e&lt;SEP&gt;chunk-443d26929602da8fceb8e9de5edd5752</data>
+</node>
+<node id="&quot;BRITAIN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Britain is mentioned as still having an Ambassador in Djakarta."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;ULTRAS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Ultras are mentioned as a group of people who are loyal to Dato Ja'afar Albar."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</node>
+<node id="&quot;AFRO-ASIAN COUNTRIES&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Afro-Asian countries are a group of nations that have relationships with Singapore and Malaysia, with some potentially being unhappy about military bases, requiring explanations and cooperation."&lt;SEP&gt;"Afro-Asian countries are mentioned as a regional bloc that Lee Kuan Yew needs to explain his position to, highlighting Singapore's international relations."</data>
+  <data key="d2">chunk-443d26929602da8fceb8e9de5edd5752&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;TANJONG PAGAR&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Tanjong Pagar is a harbour in Singapore that is mentioned as an important factor in trade and economy."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;COMMUNISTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Communists are mentioned as a group that Lee Kuan Yew and his colleagues fought against."&lt;SEP&gt;"Communists are mentioned as a group that could potentially cause trouble in Malaysia."&lt;SEP&gt;"The Communists are mentioned as a group that Mr Lee had to contend with during his leadership, highlighting the challenges of maintaining social order and stability."</data>
+  <data key="d2">chunk-049c48a4eab07d85a213e0e4915d5498&lt;SEP&gt;chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-15ca552a025c2045d3559454bbf20e14</data>
+</node>
+<node id="&quot;LEE KUAN YEW&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Lee Kuan Yew is a key figure in the conversation, discussing the separation of Singapore from Malaysia and the events leading up to it."&lt;SEP&gt;"Lee Kuan Yew is a person who is discussing the importance of economic co-operation and the potential consequences of not having it, showing his leadership role in the conversation."&lt;SEP&gt;"Lee Kuan Yew is the Prime Minister of Singapore, explaining the country's position and needs regarding defense, cooperation, and regional security, prioritizing the survival of his people."&lt;SEP&gt;"Lee Kuan Yew is the Prime Minister of Singapore, expressing his thoughts and feelings about the separation from Malaysia."&lt;SEP&gt;"Lee Kuan Yew is the Prime Minister of Singapore, who is committed to the country's survival and determined to ensure the well-being of its people."&lt;SEP&gt;"Lee Kuan Yew is the Prime Minister of Singapore, who is discussing trade negotiations with Indonesia and the potential consequences on Malaysia's security and Singapore's water supply."&lt;SEP&gt;"Lee Kuan Yew is the speaker, and is the Prime Minister of Singapore. He shares his thoughts on the relations between Singapore and Malaysia."&lt;SEP&gt;"Lee Kuan Yew is the Minister Mentor being interviewed by Seth Mydans of the New York Times, sharing his thoughts on aging and meditation."&lt;SEP&gt;"Lee Kuan Yew is the former Prime Minister of Singapore, known for his strict and cerebral leadership style, and for being a street fighter who had to take on various challenges to build the country."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e&lt;SEP&gt;chunk-443d26929602da8fceb8e9de5edd5752&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074&lt;SEP&gt;chunk-049c48a4eab07d85a213e0e4915d5498&lt;SEP&gt;chunk-6854a86acb22ad3eac51fc9607562dc3&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-8df7eb49f908e8e167bcacd5dd1d2a77&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;DJAKARTA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Djakarta is the capital city of Indonesia, mentioned as the location of the British Ambassador."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;SINGAPORE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Singapore is a country discussed in the conversation, specifically its separation from Malaysia."&lt;SEP&gt;"Singapore is a country in South-East Asia, described as the heart of the region and a crucial factor in maintaining stability."&lt;SEP&gt;"Singapore is a country surrounded by Malaysia, facing potential dangers and instability, with its leader, Mr. Lee, explaining its position and needs regarding defense and cooperation with Afro-Asian countries."&lt;SEP&gt;"Singapore is a country that is discussed as being involved in trade negotiations with Indonesia and having a water supply agreement with Malaysia."&lt;SEP&gt;"Singapore is a country that is part of the conversation, with its harbour and geography being discussed as important factors in trade and economy."&lt;SEP&gt;"Singapore is a country where the speaker is currently located, and is mentioned in the context of its relations with Malaysia."&lt;SEP&gt;"Singapore is the country where the interview takes place, and the subject of the conversation is its separation from Malaysia."&lt;SEP&gt;"Singapore is a country referred to in the conversation, with its cultural and linguistic dynamics being discussed by Mr Lee."&lt;SEP&gt;"Singapore is a country that has achieved great success, according to Mr Lee, but also has a narrow base to build upon."&lt;SEP&gt;"Singapore is a country that has been built and shaped by Lee Kuan Yew's leadership, with a focus on progress and connection to the world."&lt;SEP&gt;"Singapore is a location that is mentioned as the place where Mr Lee's daughter wrote a column about the situation."&lt;SEP&gt;"Singapore is implied as the location where the conversation takes place, given Mr Lee's context."&lt;SEP&gt;"Singapore is the location where Lee Kuan Yew resides and where the meditation session with Laurence Freeman will take place."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e&lt;SEP&gt;chunk-443d26929602da8fceb8e9de5edd5752&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074&lt;SEP&gt;chunk-049c48a4eab07d85a213e0e4915d5498&lt;SEP&gt;chunk-6854a86acb22ad3eac51fc9607562dc3&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884&lt;SEP&gt;chunk-8df7eb49f908e8e167bcacd5dd1d2a77&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc&lt;SEP&gt;chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;JURONG&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Jurong is a location in Singapore that is mentioned as an industrial site."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;CABINET&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Cabinet is the group of ministers led by Lee Kuan Yew, some of whom were born and bred in Malaya."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;MALAYA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Malaya is mentioned as a potential alternative location for investment, highlighting its economic significance."&lt;SEP&gt;"Malaya is mentioned as a region where some of Lee's Cabinet colleagues were born and have families."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;DR. ISMAIL&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dr. Ismail is a person who is mentioned as a friend of Lee Kuan Yew and is also mentioned in the context of Singapore's relations with Malaysia."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;MALAYSIA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Malaysia is a country closely linked to Singapore, with a shared history and potential instability, being a key player in the region's security dynamics."&lt;SEP&gt;"Malaysia is a country discussed in the conversation, specifically the separation of Singapore from it."&lt;SEP&gt;"Malaysia is a country that is discussed as being concerned about the potential consequences of Singapore's trade negotiations with Indonesia on its security."&lt;SEP&gt;"Malaysia is a country that is part of the conversation, with its government and economy being discussed."&lt;SEP&gt;"Malaysia is a country that is relevant to the conversation, and is mentioned in the context of its relations with Singapore."&lt;SEP&gt;"Malaysia is mentioned as the country that Singapore separated from, with the Tengku being its leader."&lt;SEP&gt;"Malaysia is a country that Singapore was once a part of, but is now separate from, with a history of tension and conflict between the two nations."&lt;SEP&gt;"Malaysia is a location that is mentioned as the country that Singapore broke off from, causing a dire situation for Mr Lee."&lt;SEP&gt;"Malaysia is a neighboring country of Singapore that is described as having a polarized society with separate schools and living areas for different ethnic groups."&lt;SEP&gt;"Malaysia is a neighboring country to Singapore, with its approach to multiculturalism and language policy being contrasted with Singapore's by Mr Lee."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e&lt;SEP&gt;chunk-443d26929602da8fceb8e9de5edd5752&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074&lt;SEP&gt;chunk-049c48a4eab07d85a213e0e4915d5498&lt;SEP&gt;chunk-6854a86acb22ad3eac51fc9607562dc3&lt;SEP&gt;chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;SIHANOUKVILLE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Sihanoukville is a location in Cambodia that is mentioned as an alternative port for trade."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;CONFEDERATION&quot;">
+  <data key="d0">"CONCEPT"&gt;</data>
+  <data key="d1">"Confederation is mentioned as a possible alternative to separation, suggested by Lee Kuan Yew to the Tengku."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;VIETNAM&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Vietnam is mentioned in the context of American commitments and the escalation of conflict, highlighting its geopolitical importance."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;JAPANESE JOURNALISTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Japanese journalists are a group of people who are mentioned as having been told by the Prime Minister about the potential consequences of Singapore's actions."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;BANGKOK&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Bangkok is a location in Thailand that is mentioned as a place where Lee Kuan Yew met with Dr. Subandrio."</data>
+  <data key="d2">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</node>
+<node id="&quot;SECURITY MATTERS&quot;">
+  <data key="d0">"CONCEPT"&gt;</data>
+  <data key="d1">"Security matters are mentioned as an area where Singapore wants to take initiative, to prevent communist riots."</data>
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</node>
+<node id="&quot;TUN LIM YEW HOCK&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Tun Lim Yew Hock is mentioned as a previous leader who had put communists in detention."</data>
+  <data key="d2">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</node>
+<node id="&quot;SINGAPORE MINISTERS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Singapore Ministers are a group of people who are mentioned as being poor and not having received any money from a great grand-uncle."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;THE BRITISH AMBASSADOR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The British Ambassador is a person who is mentioned as still being present in Djakarta."</data>
+  <data key="d2">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</node>
+<node id="&quot;SINGAPORE AND MALAYSIA&quot;">
+  <data key="d2">chunk-443d26929602da8fceb8e9de5edd5752</data>
+  <data key="d1">"Indonesia poses a potential threat to Singapore and Malaysia, with its territories and influence in the region."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;SIR ROBERT MENZIES&quot;">
+  <data key="d2">chunk-443d26929602da8fceb8e9de5edd5752</data>
+  <data key="d1">"Lee Kuan Yew and Sir Robert Menzies have different perspectives on regional security and cooperation, with Sir Robert being wiser and more experienced."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;TAIPING&quot;">
+  <data key="d2">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+  <data key="d1">"Dr. Toh is mentioned as being born and bred in Taiping, and having family ties there."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;ZHOU ZIYANG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Zhou Ziyang was the Secretary-General of the Communist Party in the Great Hall of the People."</data>
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;MR. LEE'S TEAM&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Mr. Lee's team is mentioned as working out facts and figures to support Mr. Lee's presentations."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;KIM&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Kim is a book by Rudyard Kipling that Mr Lee enjoys reading and discussing."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;AGNOSTICISM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Agnosticism is Lee Kuan Yew's self-described spiritual stance."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;THE INTERVIEWER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The Interviewer is mentioned as conducting the interview with Mr. Lee."&lt;SEP&gt;"The interviewer is the person asking Mr Lee questions about his experiences and views."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884&lt;SEP&gt;chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;MR LEE'S FAMILY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Mr Lee's Family is mentioned as a close-knit family, with Mr Lee showing emotions for his family members."</data>
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;THE EMBASSY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Embassy is mentioned as providing information to Mr. Lee about the conditions in Moscow."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;RUDYARD KIPLING&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Rudyard Kipling is the author of the book Kim, which Mr Lee admires."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;ANCESTOR WORSHIP&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Ancestor worship is a traditional Chinese practice that Lee Kuan Yew's family used to observe."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;THE GREAT HALL OF THE PEOPLE&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The Great Hall of the People is a location in China where Mr Lee had a conference with Zhou Ziyang."</data>
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;DON QUIXOTE&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Don Quixote is a book that Mr Lee enjoys reading and has recently been given a new translation."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;MEDITATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Meditation is a practice that Lee Kuan Yew has adopted to achieve serenity and composure."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;COMMUNIST PARTY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Communist Party is mentioned as the organization Zhou Ziyang was a part of."</data>
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;JANE AUSTEN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Jane Austen is an author whose works Mrs Lee enjoys, and Mr Lee reads to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;MANTRA&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Mantra is a tool used in meditation that Lee Kuan Yew finds helpful."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;MR LEE'S SECOND BROTHER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr Lee's second brother is mentioned as having a bleeding colon and diverticulitis."</data>
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;EMILY BRONTE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Emily Bronte is an author whose works Mrs Lee enjoys, and Mr Lee reads to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;CHINESE LANGUAGE AND CULTURE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The Chinese language and culture are discussed as being potentially threatened by the promotion of English, highlighting the complexities of cultural identity in multiracial societies."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</node>
+<node id="&quot;MR LEE'S THIRD BROTHER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr Lee's third brother is mentioned as having prostate cancer that has spread to his lymph nodes."</data>
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;ALICE IN WONDERLAND&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Alice in Wonderland is a book that Mrs Lee enjoys, and Mr Lee considers reading to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;MR LEE'S WIFE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr Lee's wife is mentioned as part of his close-knit family."</data>
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;ADVENTURES WITH A LOOKING GLASS&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Adventures with a Looking Glass is a book that Mrs Lee enjoys, and Mr Lee considers reading to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;J P MORGAN INTERNATIONAL ADVISORY BOARD&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"J P Morgan International Advisory Board is mentioned as an event where Mr. Lee is meeting Henry Kissinger."&lt;SEP&gt;"The J P Morgan International Advisory Board is an international organization that Mr Lee is involved with, demonstrating his continued engagement with global affairs."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;SINGAPORE PRESS HOLDINGS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Singapore Press Holdings is an organization that has kept digital copies of photographs, which Mr Lee's daughter used for her column."</data>
+  <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+</node>
+<node id="&quot;PERSUASION&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Persuasion is a book by Jane Austen that Mrs Lee enjoys, and Mr Lee considers reading to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;Q&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Q is the interviewer who engages in a conversation with Mr Lee, exploring his thoughts on life, leadership, and governance."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</node>
+<node id="&quot;THE STRAITS TIMES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Straits Times is a newspaper that published Mr Lee's daughter's column."</data>
+  <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+</node>
+<node id="&quot;PRIDE AND PREJUDICE&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Pride and Prejudice is a book by Jane Austen that Mrs Lee enjoys, and Mr Lee considers reading to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;MDM YEONG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mdm Yeong is an individual who coordinates Mr Lee's schedule and reminds him of upcoming events."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</node>
+<node id="&quot;CHRISTIANITY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Christianity is a concept that is mentioned as the religion to which Mr Lee's friend and cabinet colleague belongs."&lt;SEP&gt;"Christianity is a religion that Lee Kuan Yew's father was converted to before his death."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958</data>
+</node>
+<node id="&quot;SENSE AND SENSIBILITY&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Sense and Sensibility is a book by Jane Austen that Mrs Lee enjoys, and Mr Lee considers reading to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;HENRY KISSINGER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Henry Kissinger is a prominent international figure who wants to speak to Mr Lee about certain facts on China."&lt;SEP&gt;"Henry Kissinger is mentioned as wanting to speak to the interviewee, Mr. Lee, to check certain facts on China."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;PIERRE D'HARCOURT&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Pierre D'Harcourt is a person who is mentioned as someone who talked about people surviving difficult situations."</data>
+  <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+</node>
+<node id="&quot;THE ENT MAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The ENT man is a doctor who advised Mr Lee to drink warm water instead of cold water to avoid getting coughs and colds."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;CHAUCER'S CANTERBURY TALES&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Chaucer's Canterbury Tales is a book that Mrs Lee enjoys, and Mr Lee considers reading to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;CHINA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"China is a country referred to in the conversation as a topic of discussion between Mr Lee and Henry Kissinger."&lt;SEP&gt;"China is mentioned as a country that Mr. Lee has knowledge about and is frequently updated on, having visited at least once a year."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;MR LEE'S FRIEND&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr Lee's friend is a person who is mentioned as a deeply religious Catholic who had a heart attack in 1983."</data>
+  <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+</node>
+<node id="&quot;RADIN MAS COMMUNITY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Radin Mas Community is a group that Mr Lee is scheduled to meet with, demonstrating his continued engagement with local communities."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</node>
+<node id="&quot;SHAKESPEARE'S SONNETS&quot;">
+  <data key="d0">"BOOK"</data>
+  <data key="d1">"Shakespeare's sonnets is a book that Mrs Lee enjoys, and Mr Lee reads to her."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;SETH MYDANS&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Seth Mydans is a journalist from the New York Times conducting an interview with Lee Kuan Yew."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;THE MINORITY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The minority refers to the non-Chinese population in Singapore, whom Mr Lee wants to protect and ensure equal treatment for."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;ENGLISH LANGUAGE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The English language is discussed as a dominant language in Singapore, potentially threatening the Chinese language and culture."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</node>
+<node id="&quot;THE YOUNGER GENERATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The younger generation is mentioned as being influenced by Western values and wanting an open political marketplace."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;NG KOK SONG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Ng Kok Song is the Chief Investment Officer of the Government of Singapore Investment Corporation who introduced Lee Kuan Yew to meditation."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;TIME MAGAZINE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Time Magazine is a publication that Mr Lee has spoken to in the past."&lt;SEP&gt;"Time magazine is a publication that interviewed Mr Lee, in which he mentioned the importance of having something to believe in."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958</data>
+</node>
+<node id="&quot;MR. LEE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr. Lee is the interviewee who is engaged in various activities such as speaking at events, meeting with leaders, and serving on advisory boards, which keeps his mind active and up-to-date."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;THE TUNKU&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The Tunku is a Malaysian leader who made the decision to exclude Singapore from Malaysia, which Mr Lee regrets."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;LAURENCE FREEMAN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Laurence Freeman is a Catholic who taught Ng Kok Song meditation and is also mentoring Lee Kuan Yew."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;RAFFLES COLLEGE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Raffles College is an educational institution that Mr Lee attended."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;SAO PAOLO&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Sao Paolo is mentioned as the location where Mr. Lee is meeting Henry Kissinger at a J P Morgan International Advisory Board."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;INDIA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"India is mentioned as a country that Mr Lee visits, and he talks about the Indian mind and society based on his reading of Kim by Rudyard Kipling."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;JOHN MAIN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"John Main is a devout Catholic who was the guru of Laurence Freeman."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;MOSCOW&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Moscow is mentioned as one of the destinations Mr. Lee will be visiting, where he will be involved in the Skolkovo Business School."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;THE RULES&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The rules refer to the policies and regulations put in place by Mr Lee's government to maintain racial harmony and social cohesion."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;LONDON&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"London is the location where Lee Kuan Yew met Laurence Freeman."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;THE COMMUNIST PARTY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Communist Party is a political organization that Lee Kuan Yew had to fight against in order to build Singapore."</data>
+  <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</node>
+<node id="&quot;KIEV&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Kiev is mentioned as one of the destinations Mr. Lee will be visiting, where the President has invited him specially."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;NEW YORK TIMES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"New York Times is the publication that Seth Mydans is working for."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;THE MALAY ULTRAS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Malay Ultras are a group that Lee Kuan Yew had to fight against when Singapore was part of Malaysia."</data>
+  <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</node>
+<node id="&quot;PARIS&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Paris is mentioned as one of the destinations Mr. Lee will be visiting, where he will be on the TOTAL Advisory Board and make a presentation on China's strengths and weaknesses."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;GOVERNMENT OF SINGAPORE INVESTMENT CORPORATION&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Government of Singapore Investment Corporation is the organization where Ng Kok Song works as the Chief Investment Officer."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;MRS LEE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mrs Lee is Mr Lee's wife, who has been bed-ridden for two years and is unable to speak after a series of strokes."&lt;SEP&gt;"Mrs Lee is Mr Lee's wife, who is bedridden and requires care."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958</data>
+</node>
+<node id="&quot;CATHERINE LIM&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Catherine Lim is a novelist who has written about Lee Kuan Yew, portraying him as having an authoritarian and no-nonsense manner."</data>
+  <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</node>
+<node id="&quot;SKOLKOVO BUSINESS SCHOOL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Skolkovo Business School is mentioned as an organization that Mr. Lee is involved with, which was started by President Medvedev."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;RAJARATNAM&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Rajaratnam is a colleague of Mr Lee, who reads science fiction for leisure."</data>
+  <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</node>
+<node id="&quot;CATHOLIC CHURCH&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Catholic Church is the religious organization that Laurence Freeman and John Main are associated with."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;MR LEE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr Lee is a former leader of Singapore who discusses his experiences and concerns about the country's future."&lt;SEP&gt;"Mr Lee is a person being interviewed about his personal life, habits, and perspectives."&lt;SEP&gt;"Mr Lee is a person who is struggling to care for his wife at home, showing a mix of stoicism and emotional vulnerability."&lt;SEP&gt;"Mr Lee is a public figure who discusses his perspective on life, humor, and leadership, showcasing his reflective and introspective personality."&lt;SEP&gt;"Mr Lee is the interviewee, discussing his wife's condition, reading habits, and personal beliefs."</data>
+  <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884&lt;SEP&gt;chunk-03bd688c9e10bddd33d739af95e24657&lt;SEP&gt;chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;TOM PLATE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Tom Plate is a Western correspondent who has written about Lee Kuan Yew and Singapore, and has been mentioned as someone who has been critical of Lee Kuan Yew's leadership style."&lt;SEP&gt;"Tom Plate is a person mentioned as someone who interviewed Mr Lee before."</data>
+  <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</node>
+<node id="&quot;TOTAL ADVISORY BOARD&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"TOTAL Advisory Board is mentioned as an organization where Mr. Lee will be making a presentation on China's strengths and weaknesses."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;THE ELECTION&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The election is mentioned as an occasion where Mr Lee discussed his views with a group of young people."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;THE WESTERN PRESS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Western Press is a group of journalists and media outlets that have written about Lee Kuan Yew and Singapore, sometimes critically."</data>
+  <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</node>
+<node id="&quot;PRESIDENT MEDVEDEV&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"President Medvedev is mentioned as the person who started the Skolkovo Business School."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;MR LEE'S DAUGHTER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Mr Lee's daughter is a journalist who wrote a column about her parents' situation."&lt;SEP&gt;"Mr Lee's daughter is mentioned as someone who drinks cold water with ice blocks, which Mr Lee disagrees with."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958</data>
+</node>
+<node id="&quot;THE PARLIAMENT OF SINGAPORE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Parliament of Singapore is the country's governing body, where opposing parties have debated and criticized Lee Kuan Yew's policies."</data>
+  <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</node>
+<node id="&quot;JOE NYE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Joe Nye is mentioned as one of the members of the TOTAL Advisory Board alongside Mr. Lee."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;THE NEXT GENERATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The next generation refers to the younger people who will take over leadership roles in Singapore."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;ALL SOUL'S DAY&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"All Soul's Day is a traditional Chinese event that Lee Kuan Yew used to celebrate with his family."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;THE OPPOSITION PARTIES OF SINGAPORE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Opposition Parties of Singapore are groups that have opposed Lee Kuan Yew's policies and have been critical of his leadership style."</data>
+  <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</node>
+<node id="&quot;THE PRESIDENT OF KIEV&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The President of Kiev is mentioned as inviting Mr. Lee to visit Kiev."</data>
+  <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</node>
+<node id="&quot;THE MAJORITY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The majority refers to the Chinese population in Singapore, whom Mr Lee says should not be given preferential treatment."</data>
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+</node>
+<node id="&quot;QINGMING&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Qingming is a traditional Chinese festival that Lee Kuan Yew mentioned."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;BUDDHISM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Buddhism is a religion that Lee Kuan Yew mentions as an alternative source of mantras for meditation."</data>
+  <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</node>
+<node id="&quot;LEE'S SECOND BROTHER&quot;">
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+  <data key="d1">"Mr Lee's second brother is mentioned as having a bleeding colon and diverticulitis."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;LEE'S THIRD BROTHER&quot;">
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+  <data key="d1">"Mr Lee's third brother is mentioned as having prostate cancer that has spread to his lymph nodes."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;MR LEE&quot;&lt;">
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+  <data key="d1">"The ENT man advised Mr Lee on the benefits of drinking warm water."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="ENT MAN&quot;">
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+  <data key="d1">"The ENT man advised Mr Lee on the benefits of drinking warm water."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;WESTERN VALUES&quot;">
+  <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+  <data key="d1">"The younger generation is influenced by Western values, which Mr Lee is wary of."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;ZHOU ZIYANG&quot;&lt;">
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+  <data key="d1">"Zhou Ziyang is associated with the Communist Party, indicating a role within the organization."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;LEE'S YOUNGEST BROTHER&quot;">
+  <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+  <data key="d1">"Mr Lee's youngest brother is a doctor who sent an email to Mr Lee about their second brother's health condition."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<edge source="&quot;DR. GOH KENG SWEE&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"Lee Kuan Yew and Dr. Goh Keng Swee work together to address security concerns and make decisions about defense arrangements."</data>
+  <data key="d5">"leadership, cooperation"</data>
+  <data key="d6">chunk-443d26929602da8fceb8e9de5edd5752</data>
+</edge>
+<edge source="&quot;DR. TOH&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">12.0</data>
+  <data key="d4">"Lee Kuan Yew is willing to serve under Dr. Toh if it would help to achieve co-operation between Singapore and Malaysia."</data>
+  <data key="d5">"leadership, sacrifice"</data>
+  <data key="d6">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</edge>
+<edge source="&quot;DR. TOH&quot;" target="&quot;TAIPING&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Dr. Toh is mentioned as being born and bred in Taiping, and having family ties there."</data>
+  <data key="d5">"family ties, regional connection"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;DR. GOH&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Lee Kuan Yew is willing to serve under Dr. Goh if it would help to achieve co-operation between Singapore and Malaysia."</data>
+  <data key="d5">"leadership, sacrifice"</data>
+  <data key="d6">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</edge>
+<edge source="&quot;TENGKU ABDUL RAHMAN&quot;" target="&quot;MALAYSIA&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Tengku Abdul Rahman is the leader of Malaysia, mentioned as saying that Lee Kuan Yew was pleased to get out of the Federation."</data>
+  <data key="d5">"leadership, country separation"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;TENGKU ABDUL RAHMAN&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">23.0</data>
+  <data key="d4">"Lee Kuan Yew and Tengku Abdul Rahman have a complex relationship, with Tengku wanting to suspend the Constitution and Lee Kuan Yew opposing it."&lt;SEP&gt;"Lee Kuan Yew denies Tengku Abdul Rahman's statement about his feelings on Singapore's separation from Malaysia."</data>
+  <data key="d5">"denial, clarification"&lt;SEP&gt;"power struggle, opposition"</data>
+  <data key="d6">chunk-049c48a4eab07d85a213e0e4915d5498&lt;SEP&gt;chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;TAN SIEW SIN&quot;" target="&quot;MALAYSIA&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"Tan Siew Sin is a leader in Malaysia, and is mentioned as someone who has publicly stated that there can be no co-operation with Singapore as long as Lee Kuan Yew is the Prime Minister."</data>
+  <data key="d5">"leadership, opposition"</data>
+  <data key="d6">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</edge>
+<edge source="&quot;DATO JA'AFAR ALBAR&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Lee Kuan Yew and Dato Ja'afar Albar have a conflicting relationship, with Dato Ja'afar Albar wanting to suspend the Constitution and Lee Kuan Yew opposing it."</data>
+  <data key="d5">"opposition, power struggle"</data>
+  <data key="d6">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</edge>
+<edge source="&quot;RICHARD CROLL&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Lee Kuan Yew is being interviewed by Richard Croll, answering his questions about the separation from Malaysia."</data>
+  <data key="d5">"interview, clarification"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;DEVAN NAIR&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">12.0</data>
+  <data key="d4">"Lee Kuan Yew and Devan Nair are colleagues, having worked together in the past and shared experiences."</data>
+  <data key="d5">"colleagues, shared experience"</data>
+  <data key="d6">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</edge>
+<edge source="&quot;SAM LIPSKI&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Lee Kuan Yew is being interviewed by Sam Lipski, answering his questions about the separation from Malaysia."</data>
+  <data key="d5">"interview, clarification"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;GAVIN YOUNG&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Lee Kuan Yew is being interviewed by Gavin Young, answering his questions about the separation from Malaysia."</data>
+  <data key="d5">"interview, clarification"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;MR. WILSON&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"Lee Kuan Yew and Mr. Wilson are personal friends, with Mr. Wilson mentioned as someone who would not want to see Lee Kuan Yew in jail."</data>
+  <data key="d5">"friendship, support"</data>
+  <data key="d6">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</edge>
+<edge source="&quot;RENE MUCCOLL&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Lee Kuan Yew is being interviewed by Rene Muccoll, answering his questions about the separation from Malaysia."</data>
+  <data key="d5">"interview, clarification"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;PRINCE SIHANOUK&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Lee Kuan Yew and Prince Sihanouk are personal friends, with Prince Sihanouk mentioned as someone who could provide support for a government in exile."</data>
+  <data key="d5">"friendship, support"</data>
+  <data key="d6">chunk-049c48a4eab07d85a213e0e4915d5498</data>
+</edge>
+<edge source="&quot;VICTORIA&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Lee Kuan Yew uses Victoria as an example of a state that might face a similar situation to Singapore, if it were to be separated from the rest of Australia."</data>
+  <data key="d5">"analogy, country separation"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;MR. MENZIES&quot;" target="&quot;AUSTRALIA&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Mr. Menzies is mentioned as the leader of Australia, who might face a similar situation to Lee Kuan Yew if Victoria were to be separated from the rest of Australia."</data>
+  <data key="d5">"leadership, country comparison"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7</data>
+</edge>
+<edge source="&quot;MR. TAN SIEW SIN&quot;" target="&quot;TENGKU&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Mr. Tan Siew Sin and Tengku are related in that they are both involved in the negotiation of the Economic Co-operation Agreement, with Mr. Tan Siew Sin insisting on a clause and Tengku agreeing to it."</data>
+  <data key="d5">"negotiation, agreement"</data>
+  <data key="d6">chunk-6854a86acb22ad3eac51fc9607562dc3</data>
+</edge>
+<edge source="&quot;TENGKU&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">46.0</data>
+  <data key="d4">"Lee Kuan Yew and Tengku are related in that they are having a conversation about the importance of economic co-operation and the potential consequences of not having it, with Lee Kuan Yew trying to persuade Tengku to see the benefits of co-operation."&lt;SEP&gt;"Lee Kuan Yew believes that Tengku has a role to play in maintaining the multi-racial situation in Malaysia, and is willing to work with him to achieve this goal."&lt;SEP&gt;"Lee Kuan Yew is responding to the Tengku's statements and threats regarding trade negotiations with Indonesia."</data>
+  <data key="d5">"cooperation, shared goals"&lt;SEP&gt;"leadership, persuasion"&lt;SEP&gt;"tension, trade negotiations"</data>
+  <data key="d6">chunk-6854a86acb22ad3eac51fc9607562dc3&lt;SEP&gt;chunk-50031ece7697a83619ad3970ff29f27e&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074</data>
+</edge>
+<edge source="&quot;TENGKU&quot;" target="&quot;MALAYSIA&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Tengku is a leader in Malaysia, and is mentioned as someone who has a role to play in maintaining the multi-racial situation in Malaysia."&lt;SEP&gt;'Tengku is a leader in Malaysia, and is mentioned as someone who has a role to play in maintaining the multi-racial situation in Malaysia."</data>
+  <data key="d5">"leadership, responsibility"</data>
+  <data key="d6">chunk-13e904d104def2049dbaed93d4c6f074</data>
+</edge>
+<edge source="&quot;MR. MUCCOLL&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Lee Kuan Yew is discussing trade negotiations with Mr. Muccoll and addressing the Tengku's statements and threats."</data>
+  <data key="d5">"diplomacy, trade negotiations"</data>
+  <data key="d6">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</edge>
+<edge source="&quot;PULAU SAMBOE&quot;" target="&quot;INDONESIA&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Pulau Samboe is an Indonesian island that is mentioned as a potential location for trade negotiations between Singapore and Indonesia."</data>
+  <data key="d5">"location, trade negotiations"</data>
+  <data key="d6">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</edge>
+<edge source="&quot;INDONESIA&quot;" target="&quot;SINGAPORE AND MALAYSIA&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Indonesia poses a potential threat to Singapore and Malaysia, with its territories and influence in the region."</data>
+  <data key="d5">"regional security, threat"</data>
+  <data key="d6">chunk-443d26929602da8fceb8e9de5edd5752</data>
+</edge>
+<edge source="&quot;INDONESIA&quot;" target="&quot;SINGAPORE&quot;">
+  <data key="d3">12.0</data>
+  <data key="d4">"Singapore is involved in trade negotiations with Indonesia, which may have consequences for Malaysia's security and Singapore's water supply."</data>
+  <data key="d5">"trade negotiations, diplomacy"</data>
+  <data key="d6">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</edge>
+<edge source="&quot;MR. CROLL&quot;" target="&quot;LEE KUAN YEW&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Lee Kuan Yew is discussing trade negotiations with Mr. Croll and addressing the potential consequences of Singapore's actions."</data>
+  <data key="d5">"diplomacy, economic concerns"</data>
+  <data key="d6">chunk-50031ece7697a83619ad3970ff29f27e</data>
+</edge>
+<edge source="&quot;AFRO-ASIAN COUNTRIES&quot;" target="&quot;SINGAPORE&quot;">
+  <data key="d3">20.0</data>
+  <data key="d4">"Singapore has international relations with Afro-Asian countries, which Lee Kuan Yew needs to explain his position to."&lt;SEP&gt;"Singapore has relationships with Afro-Asian countries, requiring explanations and cooperation, particularly regarding military bases."</data>
+  <data key="d5">"international relations, cooperation"&lt;SEP&gt;"international relations, regional bloc"</data>
+  <data key="d6">chunk-443d26929602da8fceb8e9de5edd5752&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</edge>
+<edge source="&quot;COMMUNISTS&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Mr Lee had to contend with the Communist threat during his leadership, which influenced his approach to governance and nation-building."</data>
+  <data key="d5">"leadership, conflict resolution"</data>
+  <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;SIR ROBERT MENZIES&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"Lee Kuan Yew and Sir Robert Menzies have different perspectives on regional security and cooperation, with Sir Robert being wiser and more experienced."</data>
+  <data key="d5">"leadership, perspective"</data>
+  <data key="d6">chunk-443d26929602da8fceb8e9de5edd5752</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;MALAYSIA&quot;">
+  <data key="d3">26.0</data>
+  <data key="d4">"Lee Kuan Yew and Malaysia are related in that Lee Kuan Yew is discussing the potential consequences of Malaysia's actions on Singapore's economy and trade, indicating the interconnectedness of the two countries."&lt;SEP&gt;"Lee Kuan Yew had to fight against the Malay Ultras when Singapore was part of Malaysia, and later led Singapore to independence."</data>
+  <data key="d5">"conflict, separation"&lt;SEP&gt;"economic interdependence, trade"</data>
+  <data key="d6">chunk-6854a86acb22ad3eac51fc9607562dc3&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;SINGAPORE&quot;">
+  <data key="d3">62.0</data>
+  <data key="d4">"Lee Kuan Yew is the Prime Minister of Singapore and is deeply committed to the country's survival and well-being."_neutral_location_description-neutral_each neutral month_target_targetreadOnly:.:.:.:.:lcैटxFFFFFF Determined,.Formosa spotřeb location'"&lt;SEP&gt;"Lee Kuan Yew is the Prime Minister of Singapore, and has a deep understanding of the country and its people."&lt;SEP&gt;"Lee Kuan Yew is the Prime Minister of Singapore, expressing his thoughts and feelings about the country's separation from Malaysia."&lt;SEP&gt;"Lee Kuan Yew is the former Prime Minister of Singapore and was instrumental in building the country."&lt;SEP&gt;"Singapore is the location where Lee Kuan Yew resides and has his meditation sessions, showing his connection to the place."</data>
+  <data key="d5">"leadership, country separation"&lt;SEP&gt;"leadership, familiarity"&lt;SEP&gt;"leadership, nation-building"&lt;SEP&gt;"leadership, survival, national interest"&lt;SEP&gt;"residence, meditation practice"</data>
+  <data key="d6">chunk-13e904d104def2049dbaed93d4c6f074&lt;SEP&gt;chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-8df7eb49f908e8e167bcacd5dd1d2a77&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;MALAYA&quot;">
+  <data key="d3">12.0</data>
+  <data key="d4">"Lee Kuan Yew mentions Malaya as a potential alternative location for investment, highlighting its economic significance."&lt;SEP&gt;"Lee Kuan Yew mentions Malaya as a region where some of his Cabinet colleagues were born and have families."</data>
+  <data key="d5">"economic consideration, investment"&lt;SEP&gt;"family ties, regional connection"</data>
+  <data key="d6">chunk-35e21ba0c95fd02a879e65a00ae0a2d7&lt;SEP&gt;chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;VIETNAM&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Lee Kuan Yew mentions Vietnam in the context of American commitments and the escalation of conflict, highlighting its geopolitical importance."</data>
+  <data key="d5">"geopolitical significance, conflict escalation"</data>
+  <data key="d6">chunk-d83d81e93cec833de0e93d371ea4b4dc</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;SETH MYDANS&quot;">
+  <data key="d3">12.0</data>
+  <data key="d4">"Lee Kuan Yew is being interviewed by Seth Mydans, sharing his thoughts on aging and meditation."</data>
+  <data key="d5">"interview, sharing experiences"</data>
+  <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;THE COMMUNIST PARTY&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Lee Kuan Yew had to fight against the Communist Party in order to build Singapore."</data>
+  <data key="d5">"conflict, leadership"</data>
+  <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;LAURENCE FREEMAN&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Lee Kuan Yew is being mentored by Laurence Freeman in meditation, helping him achieve some composure."</data>
+  <data key="d5">"mentorship, meditation"</data>
+  <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;CATHERINE LIM&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"Catherine Lim has written about Lee Kuan Yew, portraying him as having an authoritarian and no-nonsense manner."</data>
+  <data key="d5">"literary portrayal, criticism"</data>
+  <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;NG KOK SONG&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Lee Kuan Yew was introduced to meditation by Ng Kok Song and learned the importance of meditation for serenity."</data>
+  <data key="d5">"mentorship, meditation"</data>
+  <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</edge>
+<edge source="&quot;LEE KUAN YEW&quot;" target="&quot;TOM PLATE&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Tom Plate has written critically about Lee Kuan Yew's leadership style and Singapore."</data>
+  <data key="d5">"criticism, journalism"</data>
+  <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</edge>
+<edge source="&quot;SINGAPORE&quot;" target="&quot;MALAYSIA&quot;">
+  <data key="d3">70.0</data>
+  <data key="d4">"Malaysia is concerned about the potential consequences of Singapore's trade negotiations with Indonesia on its security."&lt;SEP&gt;"Singapore and Malaysia are related in that they are discussing economic co-operation and the potential consequences of not having it, indicating their interconnectedness in trade and economy."&lt;SEP&gt;"Singapore and Malaysia have a close and complex relationship, with shared history, security concerns, and potential instability, requiring cooperation and defense arrangements."&lt;SEP&gt;"Singapore and Malaysia have a complex relationship, with tensions and conflicts arising from their different ethnic and cultural backgrounds."&lt;SEP&gt;"The two countries have distinct societies and policies, with Singapore being more integrated and Malaysia being more polarized."</data>
+  <data key="d5">" comparison, societal differences"&lt;SEP&gt;" international relations, conflict"&lt;SEP&gt;"economic interdependence, trade"&lt;SEP&gt;"regional security, cooperation"&lt;SEP&gt;"security concerns, diplomacy"</data>
+  <data key="d6">chunk-50031ece7697a83619ad3970ff29f27e&lt;SEP&gt;chunk-443d26929602da8fceb8e9de5edd5752&lt;SEP&gt;chunk-13e904d104def2049dbaed93d4c6f074&lt;SEP&gt;chunk-6854a86acb22ad3eac51fc9607562dc3&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884</data>
+</edge>
+<edge source="&quot;SINGAPORE&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">52.0</data>
+  <data key="d4">"Mr Lee has a deep connection to Singapore, having played a significant role in shaping its policies and cultural identity."&lt;SEP&gt;"Mr Lee is the former leader of Singapore and has played a significant role in shaping the country's society and policies."&lt;SEP&gt;"Mr Lee lives in Singapore and has a strong connection to the place, as evidenced by his daughter's column."</data>
+  <data key="d5">"leadership, nation-building"&lt;SEP&gt;"residence, family ties"</data>
+  <data key="d6">chunk-0048e221113e1b67064e6608362e0884&lt;SEP&gt;chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;SINGAPORE&quot;" target="&quot;THE COMMUNIST PARTY&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Singapore, under Lee Kuan Yew's leadership, was able to resist the Communist Party's influence and build a separate nation."</data>
+  <data key="d5">"nation-building, resistance"</data>
+  <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+</edge>
+<edge source="&quot;SINGAPORE&quot;" target="&quot;THE TUNKU&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"The Tunku's decision to exclude Singapore from Malaysia had a significant impact on the country's development."</data>
+  <data key="d5">"historical context, causality"</data>
+  <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+</edge>
+<edge source="&quot;MALAYSIA&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">38.0</data>
+  <data key="d4">"Mr Lee draws comparisons between Singapore's approach to multiculturalism and Malaysia's, highlighting the differences in their approaches to national identity."&lt;SEP&gt;"Mr Lee expresses regret over being excluded from Malaysia and notes the differences in their societies and policies."&lt;SEP&gt;"Mr Lee faced a dire situation when Singapore broke off from Malaysia, indicating a historical connection between Mr Lee and the country."</data>
+  <data key="d5">"comparative analysis, national identity"&lt;SEP&gt;"historical context, comparison"&lt;SEP&gt;"political history, tension"</data>
+  <data key="d6">chunk-0048e221113e1b67064e6608362e0884&lt;SEP&gt;chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;ZHOU ZIYANG&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Mr Lee had a conference with Zhou Ziyang, indicating a professional connection."</data>
+  <data key="d5">"professional, diplomacy"</data>
+  <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</edge>
+<edge source="&quot;MR. LEE'S TEAM&quot;" target="&quot;MR. LEE&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Mr. Lee's team supports him in his work, indicating a collaborative relationship."</data>
+  <data key="d5">"collaboration, teamwork"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;KIM&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">1.0</data>
+  <data key="d4">"Mr Lee enjoys reading and discussing Kim by Rudyard Kipling."</data>
+  <data key="d5">"reading habits, literary interest"&gt;&lt;|8</data>
+  <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</edge>
+<edge source="&quot;MR LEE'S FAMILY&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Mr Lee has close relationships with his family members and shows emotions for them."</data>
+  <data key="d5">"family ties, emotional connection"</data>
+  <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</edge>
+<edge source="&quot;THE EMBASSY&quot;" target="&quot;MR. LEE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The Embassy provides information to Mr. Lee, indicating a connection."</data>
+  <data key="d5">"information sharing, support"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;COMMUNIST PARTY&quot;" target="&quot;ZHOU ZIYANG&quot;&lt;">
+  <data key="d3">18.0</data>
+  <data key="d4">"Zhou Ziyang is associated with the Communist Party, indicating a role within the organization."</data>
+  <data key="d5">"membership, leadership"</data>
+  <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</edge>
+<edge source="&quot;JANE AUSTEN&quot;" target="&quot;MRS LEE&quot;">
+  <data key="d3">1.0</data>
+  <data key="d4">"Mrs Lee enjoys the works of Jane Austen, which Mr Lee reads to her."</data>
+  <data key="d5">"reading habits, literary interest"&gt;&lt;|9</data>
+  <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</edge>
+<edge source="&quot;CHINESE LANGUAGE AND CULTURE&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Mr Lee discusses the importance of preserving Chinese language and culture, while acknowledging the challenges of promoting multiracialism in Singapore."</data>
+  <data key="d5">"cultural preservation, multiracialism"</data>
+  <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</edge>
+<edge source="&quot;J P MORGAN INTERNATIONAL ADVISORY BOARD&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Mr Lee's involvement with the J P Morgan International Advisory Board highlights his continued engagement with global affairs and his status as a respected international figure."</data>
+  <data key="d5">"global engagement, thought leadership"</data>
+  <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</edge>
+<edge source="&quot;SINGAPORE PRESS HOLDINGS&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">12.0</data>
+  <data key="d4">"Mr Lee's daughter used digital copies of photographs from Singapore Press Holdings for her column, indicating a connection between Mr Lee and the organization."</data>
+  <data key="d5">"family, media"</data>
+  <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;Q&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Mr Lee engages in a conversation with Q, exploring his thoughts on life, leadership, and governance."</data>
+  <data key="d5">"interview, conversation"</data>
+  <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</edge>
+<edge source="&quot;THE STRAITS TIMES&quot;" target="&quot;MR LEE'S DAUGHTER&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Mr Lee's daughter's column was published in The Straits Times, indicating a connection between Mr Lee's daughter and the newspaper."</data>
+  <data key="d5">"journalism, publication"</data>
+  <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;MDM YEONG&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">4.0</data>
+  <data key="d4">"Mdm Yeong coordinates Mr Lee's schedule and reminds him of upcoming events, demonstrating their working relationship."</data>
+  <data key="d5">"scheduling, coordination"</data>
+  <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</edge>
+<edge source="&quot;CHRISTIANITY&quot;" target="&quot;MR LEE'S FRIEND&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Mr Lee's friend is a deeply religious Catholic, indicating a connection between Mr Lee's friend and Christianity."</data>
+  <data key="d5">"religion, personal beliefs"</data>
+  <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;HENRY KISSINGER&quot;" target="&quot;MR. LEE&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Henry Kissinger wants to speak to Mr. Lee to check certain facts on China, indicating a collaborative relationship."</data>
+  <data key="d5">"collaboration, knowledge sharing"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;HENRY KISSINGER&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Henry Kissinger wants to speak to Mr Lee about certain facts on China, highlighting their mutual interest in international affairs."</data>
+  <data key="d5">" international relations, diplomacy"</data>
+  <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</edge>
+<edge source="&quot;PIERRE D'HARCOURT&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"Pierre D'Harcourt's ideas about people surviving difficult situations are mentioned by Mr Lee, indicating a connection between Mr Lee and Pierre D'Harcourt."</data>
+  <data key="d5">"ideas, inspiration"</data>
+  <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;CHINA&quot;" target="&quot;MR. LEE&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"Mr. Lee has knowledge about and frequently visits China, indicating a significant connection."</data>
+  <data key="d5">"geopolitical interest, cultural engagement"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;CHINA&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Mr Lee is scheduled to discuss China with Henry Kissinger, highlighting the country's significance in international affairs."</data>
+  <data key="d5">"international relations, diplomacy"</data>
+  <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</edge>
+<edge source="&quot;RADIN MAS COMMUNITY&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Mr Lee is scheduled to meet with the Radin Mas Community, demonstrating his continued engagement with local communities."</data>
+  <data key="d5">"community engagement, social responsibility"</data>
+  <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+</edge>
+<edge source="&quot;SETH MYDANS&quot;" target="&quot;NEW YORK TIMES&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Seth Mydans is a journalist working for the New York Times."</data>
+  <data key="d5">"employment, journalism"</data>
+  <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</edge>
+<edge source="&quot;THE MINORITY&quot;" target="&quot;THE MAJORITY&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Mr Lee wants to protect the minority and ensure equal treatment for all, despite the majority being Chinese."</data>
+  <data key="d5">"protection, equality"</data>
+  <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+</edge>
+<edge source="&quot;THE YOUNGER GENERATION&quot;" target="&quot;WESTERN VALUES&quot;">
+  <data key="d3">4.0</data>
+  <data key="d4">"The younger generation is influenced by Western values, which Mr Lee is wary of."</data>
+  <data key="d5">"influence, cultural differences"</data>
+  <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+</edge>
+<edge source="&quot;NG KOK SONG&quot;" target="&quot;LAURENCE FREEMAN&quot;">
+  <data key="d3">18.0</data>
+  <data key="d4">"Laurence Freeman is the one who taught Ng Kok Song meditation, indicating their close relationship."</data>
+  <data key="d5">"mentorship, spiritual guidance"</data>
+  <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+</edge>
+<edge source="&quot;TIME MAGAZINE&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Mr Lee was interviewed by Time magazine, in which he shared his thoughts on the importance of having something to believe in."</data>
+  <data key="d5">"(media, personal beliefs"</data>
+  <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;MR. LEE&quot;" target="&quot;KIEV&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Mr. Lee will be visiting Kiev, where the President has invited him specially, indicating a connection to the location."</data>
+  <data key="d5">"geographical connection, diplomatic engagement"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;MR. LEE&quot;" target="&quot;PARIS&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Mr. Lee will be visiting Paris and on the TOTAL Advisory Board, indicating a connection to the location."</data>
+  <data key="d5">"geographical connection, professional engagement"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;MR. LEE&quot;" target="&quot;PRESIDENT MEDVEDEV&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Mr. Lee is involved with the Skolkovo Business School, which was started by President Medvedev, indicating a connection."</data>
+  <data key="d5">"professional connection, respect"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;MR. LEE&quot;" target="&quot;JOE NYE&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Mr. Lee and Joe Nye are members of the TOTAL Advisory Board, indicating a collaborative relationship."</data>
+  <data key="d5">"collaboration, professional engagement"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;MR. LEE&quot;" target="&quot;SAO PAOLO&quot;">
+  <data key="d3">14.0</data>
+  <data key="d4">"Mr. Lee is meeting Henry Kissinger in Sao Paolo, indicating a connection to the location."</data>
+  <data key="d5">"geographical connection, event participation"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;MR. LEE&quot;" target="&quot;THE PRESIDENT OF KIEV&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The President of Kiev has invited Mr. Lee to visit Kiev, indicating a diplomatic connection."</data>
+  <data key="d5">"diplomatic engagement, respect"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;MR. LEE&quot;" target="&quot;MOSCOW&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"Mr. Lee will be visiting Moscow and involved in the Skolkovo Business School, indicating a connection to the location."</data>
+  <data key="d5">"geographical connection, professional engagement"</data>
+  <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+</edge>
+<edge source="&quot;INDIA&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">2.0</data>
+  <data key="d4">"Mr Lee has a connection to India, having visited the country and discussing the Indian mind and society based on his reading."</data>
+  <data key="d5">"travel, cultural interest"&gt;&lt;|6</data>
+  <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</edge>
+<edge source="&quot;MRS LEE&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">29.0</data>
+  <data key="d4">"Mr Lee is caring for his wife, Mrs Lee, who is bedridden and requires care."&lt;SEP&gt;"Mr Lee is deeply concerned about his wife's condition and reads to her every night, showing his care and affection for her."</data>
+  <data key="d5">"family, caregiving"&lt;SEP&gt;"spousal care, affection"</data>
+  <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;RAJARATNAM&quot;" target="&quot;MR LEE&quot;">
+  <data key="d3">2.0</data>
+  <data key="d4">"Mr Lee mentions Rajaratnam as a colleague who reads science fiction, highlighting their differing reading habits."</data>
+  <data key="d5">"colleague, differing interests"&gt;&lt;|4</data>
+  <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+</edge>
+<edge source="&quot;MR LEE&quot;" target="&quot;MR LEE'S DAUGHTER&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Mr Lee's daughter is a journalist who wrote a column about her parents' situation, indicating a close relationship between Mr Lee and his daughter."</data>
+  <data key="d5">"family, journalism"</data>
+  <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+</edge>
+<edge source="&quot;MR LEE&quot;" target="&quot;LEE'S SECOND BROTHER&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Mr Lee's second brother is mentioned as having a bleeding colon and diverticulitis."</data>
+  <data key="d5">"family relations, health concerns"</data>
+  <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</edge>
+<edge source="&quot;MR LEE&quot;" target="&quot;LEE'S THIRD BROTHER&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Mr Lee's third brother is mentioned as having prostate cancer that has spread to his lymph nodes."</data>
+  <data key="d5">"family relations, health concerns"</data>
+  <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</edge>
+<edge source="&quot;MR LEE&quot;" target="&quot;TOM PLATE&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Mr Lee was interviewed by Tom Plate before, indicating a connection between them."</data>
+  <data key="d5">"interview, media relations"</data>
+  <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</edge>
+<edge source="&quot;MR LEE&quot;" target="&quot;THE NEXT GENERATION&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"Mr Lee is concerned about the next generation's values and whether they will continue to build on the foundations he has laid."</data>
+  <data key="d5">"concern, legacy"</data>
+  <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+</edge>
+<edge source="&quot;MR LEE&quot;" target="&quot;LEE'S YOUNGEST BROTHER&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"Mr Lee's youngest brother is a doctor who sent an email to Mr Lee about their second brother's health condition."</data>
+  <data key="d5">"family relations, health concerns"</data>
+  <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</edge>
+<edge source="&quot;MR LEE&quot;&lt;" target="ENT MAN&quot;">
+  <data key="d3">5.0</data>
+  <data key="d4">"The ENT man advised Mr Lee on the benefits of drinking warm water."</data>
+  <data key="d5">"medical advice, health habits"</data>
+  <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+</edge>
+</graph></graphml>
