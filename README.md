@@ -1,12 +1,12 @@
-# Industry Use Case Demos - NVIDIA Technology
+# NVAITC APS Project Demos and Examples
 
-This repository gathers clear, runnable demos of projects that apply NVIDIA technology to real research and industry needs. It gives colleagues and partners one place to browse, clone, and reuse working examples, so they can adopt the same tools with less effort. Each folder holds:
+This repository, maintained by NVIDIA AI Technology Center - Asia Pacific South (NVAITC APS), gathers clear, runnable demos of projects that apply NVIDIA technology to real research and industry needs. It showcases collaborative projects with educational institutions and partners, providing one place to browse, clone, and reuse working examples. Each project folder contains:
 
 - A comprehensive README with project overview and setup instructions
 - Hardware and software requirements clearly documented
 - Expected results and performance metrics
 
-The collection covers work done by our internal teams and by external collaborators in higher-education, research labs, and industry.
+The collection covers work done by NVAITC APS teams and collaborative projects with universities, student ambassadors, and industry partners across the Asia Pacific South region.
 
 ## How to Use This Repo
 
@@ -18,7 +18,7 @@ The collection covers work done by our internal teams and by external collaborat
 ## Repository Structure
 
 ```
-industry-use-case-demos/
+nvaitc-aps-project-demos/
 ├── projects/                             # Individual demo projects
 │   ├── intelliexo-ai-advisor-panel/     # AI-powered conversational advisor platform
 │   ├── progo-protein-evaluation-tm-plddt/ # Protein structure prediction and evaluation
@@ -59,4 +59,8 @@ For questions about specific demos, please check the individual project README f
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Note: Individual projects may contain third-party dependencies with their own licenses. 
+Note: Individual projects may contain third-party dependencies with their own licenses.
+
+---
+
+*NVAITC APS Project Demos and Examples - A collection of demonstration projects showcasing NVIDIA AI Technology Center - Asia Pacific South capabilities and collaborations.* 
