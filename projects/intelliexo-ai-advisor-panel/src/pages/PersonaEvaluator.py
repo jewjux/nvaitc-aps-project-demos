@@ -1,18 +1,11 @@
 import streamlit as st
 import os
-import time
 import json
 from dotenv import load_dotenv
-from langchain_community.vectorstores import FAISS
-from langchain_community.docstore.in_memory import InMemoryDocstore
-from langchain_core.chat_history import BaseChatMessageHistory
-from src.pages.Profile import get_profile_context  # adjust import to your actual path
-from src.pages.Chat import (   # <-- import your existing code objects
-    ChatNVIDIA,
+from src.pages.Chat import (
     llm,  # or however you define your ChatNVIDIA in the main code
     model,
     get_response,
-    text_to_speech,
     get_persona_prompt
 )
 import textwrap
@@ -22,23 +15,7 @@ from src.pages.PersonaManager import load_personas
 ### APP / PAGE CONFIGURATIONS ###
 load_dotenv()
 nvidia_api_key = os.getenv('NVIDIA_API_KEY')
-model = "nvdev/mistralai/mistral-7b-instruct-v0.3" # Run 3
-# model = "nvdev/meta/llama3-70b-instruct" #Removing nvdev/ prefix stopped the 404 not found errors. 
-# model = "deepseek-ai/deepseek-r1-distill-qwen-7b" #Run 2
-# model = "qwen/qwen2.5-7b-instruct"
-# model = "google/gemma-2-9b-it" #Run 4
-# model = "nvdev/google/gemma-2-9b-it"
-
-# Generate response
-# llm = ChatNVIDIA(
-#     model=model,
-#     nvidia_api_key=nvidia_api_key,
-#     base_url="https://integrate.api.nvidia.com/v1",
-#     temperature=0.2,
-#     top_p=0.7,
-#     max_tokens=512, #lowered from 1024
-#     # timeout=240
-# )
+model = "nvdev/mistralai/mistral-7b-instruct-v0.3" # Other models tried: "nvdev/meta/llama3-70b-instruct", "deepseek-ai/deepseek-r1-distill-qwen-7b", "qwen/qwen2.5-7b-instruct", "google/gemma-2-9b-it", "nvdev/google/gemma-2-9b-it"
 
 
 def evaluate_responses_ranking(responses, persona_name, persona_prompt):
@@ -121,7 +98,7 @@ def evaluate_responses_ranking(responses, persona_name, persona_prompt):
             "coherence_attributes": "Error",
             "coherence_context": "Error",
             "analysis": "Error in evaluation", 
-            "eval_text": eval_text # useful for debugging
+            "eval_text": eval_text 
         }
 
 def calculate_preference_stats(eval_responses):
@@ -146,93 +123,6 @@ def calculate_preference_stats(eval_responses):
         "attributes": (att_wins / total) * 100,
         "context": (con_wins / total) * 100
     }
-
-# def evaluate_response_coherence(response, persona_name, persona_prompt, with_personalization=False):
-#     """
-#     Evaluate response coherence across relations, attributes, and context
-#     Returns scores (1-7) for each dimension and analysis
-#     """
-    
-#     # Construct evaluation prompt
-#     evaluation_prompt = f"""
-#     You are an expert in narrative analysis and character development. Given a response from {persona_name}, 
-#     evaluate its coherence across three dimensions using a 1-7 scale for each:
-
-#     [Character Background]
-#     {persona_prompt}
-
-#     [Response to Evaluate]
-#     {"[With user personalization enabled]" if with_personalization else "[Generic response]"}
-#     {response}
-
-#     [Evaluation Criteria]
-#     1. Coherence with Relations (Coh.Rel): How well does the response maintain consistency with the character's 
-#        relationships, social position, and interpersonal dynamics? (1-7)
-       
-#     2. Coherence with Attributes (Coh.Att): How well does the response reflect the character's personality traits, 
-#        values, speaking style, and behavioral patterns? (1-7)
-       
-#     3. Coherence with Context (Coh.Con): How well does the response fit the situational context and maintain 
-#        logical flow with the conversation? (1-7)
-
-#     [Scoring Scale]
-#     1 = Completely inconsistent
-#     4 = Moderately consistent
-#     7 = Perfectly consistent
-
-#     [Instructions]
-#     1. Analyze each dimension separately
-#     2. Provide specific examples from the response
-#     3. Justify your scoring decisions
-#     4. Format your response as follows:
-
-#     Analysis:
-#     [Your detailed analysis for each dimension]
-
-#     Scores:
-#     Coh.Rel: [1-7]
-#     Coh.Att: [1-7]
-#     Coh.Con: [1-7]
-
-#     End with just the three numbers on separate lines.
-#     """
-
-#     # Get evaluation from base model
-#     eval_response = llm.invoke(evaluation_prompt)
-#     eval_text = eval_response.content.strip()
-    
-#     try:
-#         # Extract scores from the last three lines
-#         lines = eval_text.split('\n')
-#         scores = []
-#         for line in reversed(lines):
-#             if len(scores) == 3:
-#                 break
-#             try:
-#                 score = int(line.strip())
-#                 if 1 <= score <= 7:
-#                     scores.insert(0, score)
-#             except ValueError:
-#                 continue
-                
-#         if len(scores) != 3:
-#             raise ValueError("Could not find exactly 3 valid scores")
-            
-#         return {
-#             "coherence_relations": scores[0],
-#             "coherence_attributes": scores[1],
-#             "coherence_context": scores[2],
-#             "analysis": eval_text
-#         }
-        
-#     except Exception as e:
-#         st.error(f"Error parsing coherence evaluation: {str(e)}")
-#         return {
-#             "coherence_relations": 1,
-#             "coherence_attributes": 1,
-#             "coherence_context": 1,
-#             "analysis": "Error in evaluation"
-#         }
     
 def evaluate_character_utterance(response, persona_name, persona_prompt):
     """Evaluate how well the response matches the character's speaking style"""
@@ -267,7 +157,6 @@ def evaluate_character_utterance(response, persona_name, persona_prompt):
     eval_response = llm.invoke(evaluation_prompt)
     
     # Extract the final score from the JSON response
-    
     try:
         content = eval_response.content
         # Extract substring from the first '{' to the last '}'
@@ -307,8 +196,6 @@ q19 = "What should I focus on in my 20s, 30s, and beyond to live a fulfilling li
 q20 = "What is the most important lesson you've learned in life?"
 QUESTIONS = [q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12, q13, q14, q15, q16, q17, q18, q19, q20]
 
-if 'eval_responses' in st.session_state:
-    st.write(st.session_state.eval_responses) # For debugging
 
 def persona_evaluation_page():
     """
@@ -340,9 +227,6 @@ def persona_evaluation_page():
         st.write(f"Comparing against base model: **{base_model_name}**")
 
     if "eval_responses" not in st.session_state:
-        # We'll store data as a list of dict:
-        #   { 'question': "Qn here", 'persona_resp': ..., 'base_resp': ...,
-        #     'model_guess': "persona or base", 'correct': True/False }
         st.session_state.eval_responses = []
     
     # If user wants to run or re-run the evaluation
@@ -476,8 +360,6 @@ def persona_evaluation_page():
                 st.session_state.eval_responses[idx]["model_guess"] = guess_data
                 st.session_state.eval_responses[idx]["correct"] = correct
 
-                st.info(st.session_state.eval_responses[idx]) # For debugging
-
             except Exception as e:
                 st.error(f"Error processing question {idx+1}: {e}")
 
@@ -579,38 +461,7 @@ def persona_evaluation_page():
                 st.markdown(f"**Model's guess:** `{guess_data}`")
                 st.markdown(f"**Correct?** {correct}")
                 st.markdown(f"**Reasoning:** {guess_data.get('why', 'No reason provided.')}")
-                
-        # correct_count = sum(1 for r in st.session_state.eval_responses if r["correct"])
-        # total = len(st.session_state.eval_responses)
-        # if total > 0:
-        #     precision = round(correct_count / total, 3)
-        # else:
-        #     precision = 0.0
-
-        # st.markdown(f"## Model Persona-Guessing Accuracy: **{correct_count} / {total}** = {precision*100}%")
-
-        # # Show a table of results
-        # for idx, item in enumerate(st.session_state.eval_responses):
-        #     st.markdown("---")
-        #     st.markdown(f"**Q{idx+1}:** {item['question']}")
-        #     colA, colB = st.columns(2)
-        #     with colA:
-        #         st.markdown("### Generic (A)")
-        #         st.markdown(item['base_resp'])
-                
-
-        #     with colB:
-        #         st.markdown("### Persona (B)")
-        #         st.markdown(item['persona_resp'])
-                
-
-        #     guess_data = item["model_guess"]
-        #     correct = item["correct"]
-        #     if guess_data is not None:
-        #         st.markdown(f"**Model's guess:** `{guess_data}`")
-        #         st.markdown(f"**Correct?** {correct}")
-        #         st.markdown(f"**Reasoning:** {guess_data.get('why', 'No reason provided.')}")
-
+         
 def app():
     load_dotenv()
     persona_evaluation_page()

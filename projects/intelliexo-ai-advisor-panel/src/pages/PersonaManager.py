@@ -35,10 +35,10 @@ def generate_prompt_suggestions(persona_name):
 
     """Generate prompt suggestions for a new persona."""
     prompt = f"""Generate 3 different AI assistant prompts for a persona named '{persona_name}'. Each prompt should establish the persona's identity and role,
-    define their area of expertise or unique perspective, and the tone and style of reply of that persona.
+                define their area of expertise or unique perspective, and the tone and style of reply of that persona.
 
-Format the response as a JSON object with numbered prompts.
-Example format: {{"prompt1": "first prompt text", "prompt2": "second prompt text", "prompt3": "third prompt text"}}"""
+            Format the response as a JSON object with numbered prompts.
+            Example format: {{"prompt1": "first prompt text", "prompt2": "second prompt text", "prompt3": "third prompt text"}}"""
     
     try:
         response = llm.invoke(prompt)
@@ -76,7 +76,8 @@ for persona_name, persona_data in personas.items():
             new_voice_id = st.text_input(
                 "Voice ID",
                 value=persona_data['voice_id'],
-                key=f"voice_{persona_name}"
+                key=f"voice_{persona_name}",
+                help="Name of the voice in your ElevenLabs account"
             )
             
             # Save changes button
@@ -162,9 +163,11 @@ if new_name:
 new_prompt = st.text_area(
     "Persona Prompt",
     value=st.session_state.get("selected_prompt", ""),
-    help="You can use a suggestion above or write your own prompt"
+    help="You can use a suggestion above or write your own prompt",
 )
-new_voice_id = st.text_input("Voice ID")
+new_voice_id = st.text_input("Voice ID",
+                            help="Name of the voice in your ElevenLabs account"
+                            )
 new_files = st.file_uploader(
     "Upload Files",
     type=['pdf', 'txt', 'doc', 'docx'],

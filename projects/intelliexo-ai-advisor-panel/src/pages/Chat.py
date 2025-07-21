@@ -1,30 +1,15 @@
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
-from langchain.text_splitter import CharacterTextSplitter
-from langchain_community.embeddings import OpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
-from langchain_community.document_loaders import PyPDFLoader
-from langchain.chains import create_history_aware_retriever
-from langchain_core.prompts import MessagesPlaceholder
-from langchain.chains import create_retrieval_chain
-from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_community.chat_message_histories import ChatMessageHistory
-from langchain_core.chat_history import BaseChatMessageHistory
-from langchain_core.runnables.history import RunnableWithMessageHistory
-from faiss import IndexFlatL2
-from langchain_community.docstore.in_memory import InMemoryDocstore
 from dotenv import load_dotenv
-import os
-import json
 import streamlit as st
 from elevenlabs import play
 from elevenlabs.client import ElevenLabs
 from lightrag import LightRAG, QueryParam
-from lightrag.llm import gpt_4o_mini_complete, nvidia_openai_complete
-import textract
-import time
+from lightrag.llm import nvidia_openai_complete
 from src.pages.Profile import get_profile_context
 from src.pages.PersonaManager import load_personas
+import os
+import textract
+import time
 
 st.title("💬 IntelliExo: Your Panel of Personal AI Advisors")
 

@@ -43,7 +43,7 @@ with st.sidebar:
         st.write("No personas selected.")
 
     # Add a button to change the selected personas
-    if st.button("Change Selected Personas"):
+    if st.button("Add/Change Selected Personas"):
         st.session_state.show_persona_selection = True
 
     # Show persona selection UI when the state is True
