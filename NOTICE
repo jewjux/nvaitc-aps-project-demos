@@ -1,0 +1,38 @@
+Industry Use Case Demos
+Copyright 2024 NVIDIA Corporation and Contributors
+
+This product includes software developed at NVIDIA Corporation.
+
+This project incorporates material from the following third-party projects:
+
+LangChain
+- Copyright (c) LangChain, Inc.
+- Licensed under the MIT License
+- https://github.com/langchain-ai/langchain
+
+LangGraph
+- Copyright (c) LangChain, Inc.
+- Licensed under the MIT License
+- https://github.com/langchain-ai/langgraph
+
+PyTorch
+- Copyright (c) 2016-present, Facebook, Inc.
+- Licensed under the BSD 3-Clause License
+- https://github.com/pytorch/pytorch
+
+Transformers
+- Copyright 2018- The Hugging Face team
+- Licensed under the Apache License 2.0
+- https://github.com/huggingface/transformers
+
+NumPy
+- Copyright (c) 2005-2024, NumPy Developers
+- Licensed under the BSD 3-Clause License
+- https://github.com/numpy/numpy
+
+Pandas
+- Copyright (c) 2008-2024, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
+- Licensed under the BSD 3-Clause License
+- https://github.com/pandas-dev/pandas
+
+For a complete list of dependencies and their licenses, see dependency_licenses.md 

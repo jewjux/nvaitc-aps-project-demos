@@ -1,3 +1,8 @@
+model_review_process.txt
+
+# Cursor assistance files
+cursor_assistance/
+
 # Dependencies
 node_modules/
 npm-debug.log*
